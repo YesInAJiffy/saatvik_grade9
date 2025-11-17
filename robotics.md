@@ -208,6 +208,77 @@ Robotics combines mechanics, electronics, and programming to build machines that
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f55497eb-7111-4ec4-b7ee-e61ca065ee8b" />
 
+# Lever
+A **lever** is a simple machine that helps you apply force more efficiently by using a rigid bar that pivots around a point called the **fulcrum**.
+
+***
+
+### **Definition**
+
+A lever is a rigid bar that rotates around a fixed point (fulcrum) to move or lift a load using less effort.
+
+***
+
+### **How It Works**
+
+*   You apply **effort** at one end.
+*   The **load** (object you want to move) is at the other end.
+*   The **fulcrum** is the pivot point in between.
+*   The farther your effort is from the fulcrum, the easier it is to lift the load because you increase the **lever arm** (distance).
+
+***
+
+### **Formula**
+
+\[
+\text{Torque} = \text{Force} \times \text{Lever Arm Length}
+]
+
+***
+
+### **Example**
+
+*   A seesaw is a lever.
+*   A wrench turning a bolt is also a lever—the bolt is the fulcrum, the wrench is the bar, and your hand applies effort.
+
+***
+
+<img width="1536" height="1024" alt="Designer-8" src="https://github.com/user-attachments/assets/d37e5957-0293-4df8-be75-e672b7463f65" />
+<img width="888" height="398" alt="image" src="https://github.com/user-attachments/assets/d6e01850-9c81-46d4-88f8-0026db3516ba" />
+
+This image shows a **lever in action** with two weights:
+
+*   **Left side**: A large sphere labeled **100 kg** (the heavy load).
+*   **Right side**: A smaller sphere labeled **5 kg** (the effort).
+*   **Fulcrum**: The triangular support under the wooden plank, closer to the heavy load.
+*   **Plank**: Acts as the lever arm.
+
+***
+
+### **Explanation**
+
+*   The lever is **not balanced** because the heavy load (100 kg) is much closer to the fulcrum, while the lighter effort (5 kg) is farther away.
+*   This demonstrates **mechanical advantage**:
+    *   By placing the effort farther from the fulcrum, you increase the **lever arm length**, which multiplies the torque.
+    *   Even though the effort is much lighter (5 kg), its greater distance from the fulcrum can balance or lift the heavier load.
+
+***
+
+### **Key Principle**
+
+\[
+\text{Torque} = \text{Force} \times \text{Distance from Fulcrum}
+]
+So:
+
+*   Heavy load: Large force, short distance.
+*   Light effort: Small force, long distance.
+
+If the distances are adjusted correctly, the torques can balance.
+
+***
+
+
 
 # Torque
 **Torque** is a measure of **rotational force**—how strongly something can twist or turn around an axis.
@@ -250,10 +321,10 @@ Torque is measured in **Newton-meters (N·m)** or **inch-pounds (in·lb)**.
 
 <img width="1536" height="1024" alt="Designer-7" src="https://github.com/user-attachments/assets/5a65354f-287d-4112-a242-060a3eada7f7" />
 The above diagram
-* Shows a wrench turning a bolt.
-* Force applied at the end of the wrench.
-* Lever arm is the distance from the bolt to where the force is applied.
-* Torque = Force × Lever Arm.
++ Shows a wrench turning a bolt.
++ Force applied at the end of the wrench.
++ Lever arm is the distance from the bolt to where the force is applied.
++ Torque = Force × Lever Arm.
 
 ✅ This visual makes it clear why a longer wrench gives more torque—because the lever arm is longer.
 
