@@ -1,3 +1,50 @@
+## Current Basics
+
+Here’s the comparison table for **Current, Voltage, and Resistance**:
+
+| **Property**   | **Definition**                                     | **Symbol** | **Unit**   | **Formula**          |
+| -------------- | -------------------------------------------------- | ---------- | ---------- | -------------------- |
+| **Current**    | Flow of electric charge through a conductor        | ( I )      | Ampere (A) | ( I = \dfrac{V}{R} ) |
+| **Voltage**    | Electrical potential difference between two points | ( V )      | Volt (V)   | ( V = I \times R )   |
+| **Resistance** | Opposition to the flow of current in a circuit     | ( R )      | Ohm (Ω)    | ( R = \dfrac{V}{I} ) |
+
+***
+
+✅ These three are connected by **Ohm’s Law**:  
+\[
+V = I \times R
+]
+
+
+
+**Series vs Parallel Circuits**:
+<img width="623" height="446" alt="image" src="https://github.com/user-attachments/assets/b8762c4d-931f-46c3-b5a5-5a1e6692701f" />
+
+
+| **Feature**           | **Series Circuit**                               | **Parallel Circuit**                                                    |
+| --------------------- | ------------------------------------------------ | ----------------------------------------------------------------------- |
+| **Connection**        | Components connected end-to-end in one path      | Components connected across common points                               |
+| **Current**           | Same through all components                      | Splits among branches                                                   |
+| **Voltage**           | Divides across components                        | Same across all branches                                                |
+| **Resistance**        | ( R\_\text{total} = R\_1 + R\_2 + R\_3 + \dots ) | ( \frac{1}{R\_\text{total}} = \frac{1}{R\_1} + \frac{1}{R\_2} + \dots ) |
+| **Effect of Failure** | One component fails → entire circuit stops       | One component fails → others keep working                               |
+| **Example**           | Old Christmas lights                             | Home wiring system                                                      |
+
+***
+
+### Series
+V = V1 + V2 </br>
+Current is same across components </br>
+R = R1 + R2 </br>
+### Parallel
+V = V1 = V2 </br>
+I = I1 + I2 </br>
+1/R = 1/R1 + 1/R2 </br>
+
+### Note
+Voltmeter/ResistanceMeter is connected in parallel </br>
+Ammeter is connected in series </br>
+
 
 
 ## **Robotics Glossary for High School Students**
