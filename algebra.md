@@ -72,4 +72,4 @@ https://www.andrews.edu/~rwright/Precalculus-RLW/Text/02-05.html
 https://www.tiger-algebra.com/drill/x~3_14x~2_41x-56=0/
 https://www.emathhelp.net/calculators/algebra-1/rational-zeros-theorem-calculator/
 https://en.wikipedia.org/wiki/Rational_root_theorem
-
+https://www.emathhelp.net/calculators/algebra-1/rational-zeros-theorem-calculator/
