@@ -46,33 +46,30 @@ f(x) = x^3 + 14x^2 + 41x - 56
 
 Here are the results for the polynomial:
 $` 
-
 f(x) = x^3 + 14x^2 + 41x - 56
-
 `$
 ***
 
 ### ✅ **Possible Rational Roots** (from Rational Root Theorem)
 $` 
-
 \pm 1, \pm 2, \pm 4, \pm 7, \pm 8, \pm 14, \pm 28, \pm 56
-
 `$
 ***
 
 ### ✅ **Actual Rational Roots**
 $` 
-
 x = 1,; x = -7,; x = -8
-
 `$
 ***
 
 ### ✅ **Factorization**
 $` 
-
 x^3 + 14x^2 + 41x - 56 = (x - 1)(x + 7)(x + 8)
-
 `$
 ***
+
+https://www.andrews.edu/~rwright/Precalculus-RLW/Text/02-05.html
+https://www.tiger-algebra.com/drill/x~3_14x~2_41x-56=0/
+https://www.emathhelp.net/calculators/algebra-1/rational-zeros-theorem-calculator/
+https://en.wikipedia.org/wiki/Rational_root_theorem
 
