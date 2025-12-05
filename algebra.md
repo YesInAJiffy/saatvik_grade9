@@ -68,6 +68,7 @@ x^3 + 14x^2 + 41x - 56 = (x - 1)(x + 7)(x + 8)
 `$
 ***
 
+https://matterofmath.com/algebra/rational-root-theorem/
 https://www.andrews.edu/~rwright/Precalculus-RLW/Text/02-05.html
 https://www.tiger-algebra.com/drill/x~3_14x~2_41x-56=0/
 https://www.emathhelp.net/calculators/algebra-1/rational-zeros-theorem-calculator/
