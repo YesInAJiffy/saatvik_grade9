@@ -20,12 +20,14 @@
 <img width="333" height="304" alt="image" src="https://github.com/user-attachments/assets/b07b0239-2182-47d1-99f9-fde57e8b1734" />
 <br/>
 
+# Reciprocal Identities
+These define cosecant, secant, and cotangent in terms of sine, cosine, and tangent. 
+
 <img width="230" height="221" alt="image" src="https://github.com/user-attachments/assets/4bf4009b-c368-483a-a9da-c42fc41efe9f" />
 <img width="257" height="159" alt="image" src="https://github.com/user-attachments/assets/386275ca-c2a6-4c51-9985-515c811d5fcc" />
 
 
-# Reciprocal Identities
-These define cosecant, secant, and cotangent in terms of sine, cosine, and tangent. 
+
 
 # All Students Take Calculus
 - Purpose: Helps determine the sign (+ or -) of trig functions in each quadrant.
