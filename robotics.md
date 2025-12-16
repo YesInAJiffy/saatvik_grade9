@@ -1,3 +1,17 @@
+## Robotics
+### Sense
+Detects
+### Think
+Controller
+### Act
+Effector
+
+### SMALL EXAMPLES
+Vibrobot
+Actuator : A piece of equipment that makes a robot move.
+Line following robot car
+
+
 ## Current Basics
 
 Here’s the comparison table for **Current, Voltage, and Resistance**:
