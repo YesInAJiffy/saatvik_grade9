@@ -1,7 +1,7 @@
 # Parent Rules
 Saatvik and Shlok should review these rules and suggest if they need any rules to be made for parents. If yes those rules shall be added in another table.
 
-### Home Rules 
+# Home Rules for Kids
 
 | Category                      | Rule                     | Details / Examples                                                                                              | Consequences (if broken)                                |
 | ----------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
