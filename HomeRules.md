@@ -27,12 +27,3 @@ Saatvik and Shlok should review these rules and suggest if they need any rules t
 
 ***
 
-### Tips to Make These Rules Stick
-
-*   **Agree together:** Review and adjust the times/limits as a family so your teen buys in.
-*   **Post & visible:** Print and place where everyone can see.
-*   **Model & remind:** Adults follow device rules at meals too.
-*   **Use tech tools:** Enable Screen Time / Family Link / Focus modes to automate limits.
-
-
-
