@@ -1,7 +1,17 @@
 # Parent Rules
 Saatvik and Shlok should review these rules and suggest if they need any rules to be made for parents. If yes those rules shall be added in another table.
 
+
 # Home Rules for Kids
+## 👉Banned Words
+- Ass
+- Suck
+- Sucker
+- Sucking
+- F*
+- Dumbass
+- Idiot
+- Banging Table
 
 | Category                      | Rule                     | Details / Examples                                                                                              | Consequences (if broken)                                |
 | ----------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
