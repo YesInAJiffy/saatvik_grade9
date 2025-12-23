@@ -13,19 +13,17 @@ Saatvik and Shlok should review these rules and suggest if they need any rules t
 |                               | Glasses/Toupee/Gloves/Jackets     | Keep in Proper Place                                                       | Extra chore; reduced screen time                        |
 | **Curfew & Safety**           | Weekday curfew           | Suggested: **7:00 PM** (No Laptop/TV after this time)                                                                              | Next day privileges reduced                             |
 |                               | Weekend curfew           | Suggested: **9:00 PM** (-do-)                                                                             | Earlier curfew the following weekend                    |
-| **Food**                      | No Food after 9:00 PM    | No Food, no Lemon Juice                                                              | No guests for a period; cleanup duty                    |
-|                               | Max limit to finish      | Can't take more than 30 minutes to eat; clean up before/after                                                           | Hosting privileges paused                               |
+| **Food**                      | No Food after 9:00 PM    | No Food, no Lemon Juice                                                              | Home cleanup duty                    |
+|                               | Max limit to finish      | Can't take more than 30 minutes to eat; clean up before/after                                                           | Home Cleanup duty                               |
 | **Health & Well-being**       | 👉 Exercise                 | 30 Minutes of Exercise Daily, followed by Hanging.                                                                          | Dessert/snack limits                                    |
 |                               | Hygiene                  | Shower minimum 4 days in a week, brush teeth twice daily                                                                            | Earlier bedtime; reminder routines                      |
-| **Devices at Home**           | Phone-free meals         | No phones during meals; TV may be allowed                                                                           | Device goes to charging station during meals            |
-|                               | Privacy & safety         | Don't use any of parents emails accounts etc.; apply brain and maintain your privacy                                                | Social media limits; supervised usage                   |
-| **Screen Time (Detailed)**    | 👉 Daily limits             | **Weekdays:** max **1 hours** phone after homework and 30 minutes TV (anytime before 9:00 PM; **Weekends:** max **3–4 hours** recreation (customize) | Device locks; time reduced next day                     |
+| **Devices at Home**           | Phone-free meals         | No phones during meals; TV may be allowed                                                                           | Follow Diligently            |
+|                               | Privacy & safety         | Don't use any of parents emails accounts etc.; apply brain and maintain your privacy                                                | Follow Diligently                   |
+| **Screen Time (Detailed)**    | 👉 Daily limits             | **Weekdays:** max **1 hours** phone after homework and 30 minutes TV; 1 hour programming time, if interested (anytime before 9:00 PM; **Weekends:** max **3–4 hours** recreation (customize) | Device locks; time reduced next day                     |
 |                               | Timing                   | No screens till all homework is finished                            | Earlier device curfew for a week                        |
-|                               | No devices overnight     | No phones/Laptops in bedrooms                                                 | Overnight device kept by parent for 1–2 nights          |
+|                               | No devices overnight     | No phones/Laptops in bedrooms                                                 | Follow Diligently          |
 |                               | Focus mode for study     | No songs / headphones during studies, which includes homework.                                     | Extra study time to make up                             |
 |                               | Social media boundaries  | No social media posts, no comments in YouTube etc.                                                 | Temporary account pause; review digital etiquette       |
-| **Consequences & Rewards**    | Consistency              | Consequences applied calmly and consistently                                                                    | —                                                       |
-|                               | Positive rewards         | Learnings, Health, Positive Mindset and efficiency      | —                                                       |
 
 ***
 
