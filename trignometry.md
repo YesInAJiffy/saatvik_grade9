@@ -26,6 +26,80 @@ These define cosecant, secant, and cotangent in terms of sine, cosine, and tange
 <img width="230" height="221" alt="image" src="https://github.com/user-attachments/assets/4bf4009b-c368-483a-a9da-c42fc41efe9f" />
 <img width="257" height="159" alt="image" src="https://github.com/user-attachments/assets/386275ca-c2a6-4c51-9985-515c811d5fcc" />
 
+# Sides forming Angles
+In trigonometry, when we talk about **initial side** and **terminal side**, we are referring to the sides of an angle drawn in **standard position** on the coordinate plane.
+
+***
+
+### ✅ **Initial Side**
+
+*   The **initial side** of an angle is the **starting position** of the angle.
+*   In standard position, it **always lies along the positive x-axis**.
+*   This is the fixed side from which the angle begins to rotate.
+
+***
+
+### ✅ **Terminal Side**
+
+*   The **terminal side** is the **position after rotation**.
+*   It shows where the angle ends after rotating from the initial side.
+*   The rotation can be:
+    *   **Counterclockwise** → Positive angle
+    *   **Clockwise** → Negative angle
+
+***
+
+### ✅ **Significance**
+
+*   The initial side is the reference point for measuring angles.
+*   The terminal side determines the quadrant of the angle, which affects the **signs of trigonometric functions**.
+*   The angle between the initial and terminal side is what we measure in degrees or radians.
+
+<img width="882" height="634" alt="image" src="https://github.com/user-attachments/assets/2299afb7-79ef-4629-89bd-b6829ca7bd10" />
+
+***
+
+# Reference Angles
+
+
+### ✅ **What is a Reference Angle?**
+
+In trigonometry, a **reference angle** is the **acute angle (between 0° and 90°)** formed between the terminal side of a given angle and the **x-axis** in standard position.
+
+*   For any angle θ (positive or negative), its reference angle is the smallest positive angle between the terminal side of θ and the x-axis.
+*   It is always **positive** and **≤ 90°**.
+
+***
+
+### ✅ **How to Find It?**
+
+*   If θ is in **Quadrant I**: Reference angle = θ
+*   If θ is in **Quadrant II**: Reference angle = 180° − θ
+*   If θ is in **Quadrant III**: Reference angle = θ − 180°
+*   If θ is in **Quadrant IV**: Reference angle = 360° − θ  
+    *(For radians, use π instead of 180° and 2π instead of 360°.)*
+
+Example:  
+If θ = 210°, then reference angle = 210° − 180° = 30°.
+
+***
+
+### ✅ **Significance of Reference Angle**
+
+*   **Simplifies Trigonometric Calculations:**  
+    Trig functions of any angle can be expressed using its reference angle and the sign determined by the quadrant.
+    $`
+    \sin(210°) = -\sin(30°), \quad \cos(210°) = -\cos(30°)
+    `$
+*   **Helps with Unit Circle:**  
+    All trig values repeat in patterns based on reference angles.
+*   **Useful for Negative Angles and Angles > 360°:**  
+    You reduce them to their reference angle for easier computation.
+
+***
+
+Would you like me to **create a diagram showing all four quadrants with examples of reference angles**?
+
 
 
 
