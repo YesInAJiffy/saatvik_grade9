@@ -197,4 +197,15 @@ Trigonometric **addition identities** are formulas that allow you to find the si
 
 ***
 
-👉 Do you want me to **also include the double-angle and half-angle identities** (which are derived from these addition formulas) in a **single cheat sheet** for you?
+### ✅ Trigonometric Values Table
+
+| Angle (°) | Angle (rad) | sin(θ) | cos(θ) | tan(θ)    | sec(θ)    | cosec(θ)  | cot(θ)    |
+| --------- | ----------- | ------ | ------ | --------- | --------- | --------- | --------- |
+| **0°**    | 0           | 0      | 1      | 0         | 1         | Undefined | Undefined |
+| **90°**   | π/2         | 1      | 0      | Undefined | Undefined | 1         | 0         |
+| **270°**  | 3π/2        | -1     | 0      | Undefined | Undefined | -1        | 0         |
+| **360°**  | 2π          | 0      | 1      | 0         | 1         | Undefined | Undefined |
+
+***
+
+
