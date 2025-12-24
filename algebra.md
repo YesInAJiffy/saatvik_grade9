@@ -124,5 +124,60 @@ Great question! The orientation of a parabola depends on the **variable that is 
 
 ***
 
-✅ Would you like me to **create a visual chart showing all four orientations with examples and vertex positions**? Or a **step-by-step guide for identifying orientation from any given equation**?
+
+
+# **Even and Odd Functions**
+
+These terms describe how a function behaves when you replace ( x ) with ( -x ).
+
+***
+
+#### ✅ **Even Function**
+
+A function ( f(x) ) is **even** if:
+$`
+f(-x) = f(x)
+`$
+This means the graph is **symmetric about the y-axis**.
+
+**Example:**
+$`
+f(x) = x^2
+`$
+Check:
+$`
+f(-x) = (-x)^2 = x^2 = f(x)
+`$
+So ( x^2 ) is an **even function**.
+
+***
+
+#### ✅ **Odd Function**
+
+A function ( f(x) ) is **odd** if:
+$`
+f(-x) = -f(x)
+`$
+This means the graph is **symmetric about the origin**.
+
+**Example:**
+$`
+f(x) = x^3
+`$
+Check:
+$`
+f(-x) = (-x)^3 = -x^3 = -f(x)
+`$
+So ( x^3 ) is an **odd function**.
+
+***
+
+### **Quick Visual Intuition**
+
+*   Even → Mirror image across the y-axis.
+*   Odd → Rotational symmetry (180°) around the origin.
+
+***
+
+
 
