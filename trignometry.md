@@ -132,3 +132,69 @@ $` (\sin ^{2}\theta +\cos ^{2}\theta =1)
 # Angle Sum & Difference Identities Used to expand or simplify sums/differences of angles. 
 
 <img width="441" height="171" alt="image" src="https://github.com/user-attachments/assets/e0a70066-f585-4f1b-8a17-b2285614a03a" />
+
+
+# Trignometric Addition Identities
+
+Trigonometric **addition identities** are formulas that allow you to find the sine, cosine, or tangent of the sum or difference of two angles. These are fundamental in trigonometry because they help simplify expressions and solve problems involving angle sums.
+
+***
+
+### ✅ **Addition and Subtraction Formulas**
+
+1.  **Sine Addition/Subtraction**
+    $`
+    \sin(A \pm B) = \sin A \cos B \pm \cos A \sin B
+    `$
+
+*   For **addition**:
+    $`
+    \sin(A + B) = \sin A \cos B + \cos A \sin B
+    `$
+*   For **subtraction**:
+    $`
+    \sin(A - B) = \sin A \cos B - \cos A \sin B
+    `$
+
+***
+
+2.  **Cosine Addition/Subtraction**
+    $`
+    \cos(A \pm B) = \cos A \cos B \mp \sin A \sin B
+    `$
+
+*   For **addition**:
+    $`
+    \cos(A + B) = \cos A \cos B - \sin A \sin B
+    `$
+*   For **subtraction**:
+    $`
+    \cos(A - B) = \cos A \cos B + \sin A \sin B
+    `$
+
+***
+
+3.  **Tangent Addition/Subtraction**
+    $`
+    \tan(A \pm B) = \frac{\tan A \pm \tan B}{1 \mp \tan A \tan B}
+    `$
+
+*   For **addition**:
+    $`
+    \tan(A + B) = \frac{\tan A + \tan B}{1 - \tan A \tan B}
+    `$
+*   For **subtraction**:
+    $`
+    \tan(A - B) = \frac{\tan A - \tan B}{1 + \tan A \tan B}
+    `$
+
+***
+
+### ✅ Why are these useful?
+
+*   They help simplify expressions like (\cos(t + 3.5\pi)) (as in your previous question).
+*   They are used in proving identities, solving trigonometric equations, and in calculus for integration and differentiation.
+
+***
+
+👉 Do you want me to **also include the double-angle and half-angle identities** (which are derived from these addition formulas) in a **single cheat sheet** for you?
