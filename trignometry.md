@@ -213,3 +213,52 @@ Trigonometric **addition identities** are formulas that allow you to find the si
 ***
 
 
+# **What is the meaning of “Period” in a function?**
+
+The **period** of a function is the length of the smallest interval after which the function **repeats its values**.
+
+Mathematically:
+$`
+f(x + T) = f(x)
+`$
+for all ( x ), where ( T ) is the **period**.
+
+***
+
+### **Periods of Common Trigonometric Functions**
+
+1.  **Sine (sin θ)**
+    *   Pattern repeats every ( 360^\circ ) or ( 2\pi ) radians.
+    *   **Period = ( 2\pi )**.
+
+2.  **Cosine (cos θ)**
+    *   Same as sine because both are circular functions.
+    *   **Period = ( 2\pi )**.
+
+3.  **Tangent (tan θ)**
+    *   Repeats every ( 180^\circ ) or ( \pi ) radians.
+    *   **Period = ( \pi )**.
+
+4.  **Cotangent (cot θ)**
+    *   Same as tangent.
+    *   **Period = ( \pi )**.
+
+5.  **Secant (sec θ)** and **Cosecant (csc θ)**
+    *   Same as sine and cosine.
+    *   **Period = ( 2\pi )**.
+
+***
+
+### **Quick Summary Table**
+
+| Function | Period   |
+| -------- | -------- |
+| sin(θ)   | ( 2\pi ) |
+| cos(θ)   | ( 2\pi ) |
+| tan(θ)   | ( \pi )  |
+| cot(θ)   | ( \pi )  |
+| sec(θ)   | ( 2\pi ) |
+| csc(θ)   | ( 2\pi ) |
+
+***
+
