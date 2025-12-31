@@ -1,0 +1,271 @@
+# Glossary
+***
+
+### **A**
+
+*   **Accounts Payable (AP)**: Money a company owes to suppliers for goods/services purchased on credit.
+*   **Accounts Receivable (AR)**: Money owed to the company by customers for goods/services sold on credit.
+*   **Amortization**: Gradual reduction of a debt or intangible asset value over time.
+
+### **B**
+
+*   **Balance Sheet**: A financial statement showing a company’s assets, liabilities, and owner’s equity at a specific point in time.
+*   **Break-Even Point**: The level of sales at which total revenue equals total costs (no profit, no loss).
+*   **Budget**: A financial plan outlining expected income and expenses.
+
+### **C**
+
+*   **Capital**: Financial resources used to start or operate a business.
+*   **Cash Flow**: Movement of money in and out of a business.
+*   **Cost of Goods Sold (COGS)**: Direct costs of producing goods sold by a company.
+
+### **D**
+
+*   **Debt**: Money borrowed that must be repaid, usually with interest.
+*   **Depreciation**: Reduction in the value of a tangible asset over time due to wear and tear.
+*   **Dividend**: Portion of profits distributed to shareholders.
+
+### **E**
+
+*   **Equity**: Ownership interest in a company; calculated as Assets – Liabilities.
+*   **Expense**: Costs incurred in the process of earning revenue.
+
+### **F**
+
+*   **Fixed Costs**: Costs that remain constant regardless of production level (e.g., rent).
+*   **Forecasting**: Predicting future financial performance based on historical data.
+*   **Financial Statement**: Reports summarizing a company’s financial condition (Balance Sheet, Income Statement, Cash Flow Statement).
+
+### **G**
+
+*   **Gross Profit**: Revenue minus Cost of Goods Sold.
+*   **Gross Margin**: Percentage of revenue remaining after COGS.
+
+### **I**
+
+*   **Income Statement**: A report showing revenue, expenses, and profit over a period.
+*   **Interest**: Cost of borrowing money, expressed as a percentage.
+
+### **L**
+
+*   **Liabilities**: Obligations a company owes to others (loans, accounts payable).
+*   **Liquidity**: Ability to convert assets into cash quickly.
+
+### **N**
+
+*   **Net Income**: Profit after all expenses, taxes, and costs are deducted.
+*   **Net Worth**: Total assets minus total liabilities.
+
+### **O**
+
+*   **Operating Expenses**: Costs related to running the business (rent, salaries).
+*   **Opportunity Cost**: Value of the next best alternative forgone.
+
+### **P**
+
+*   **Profit Margin**: Percentage of revenue that becomes profit.
+*   **Principal**: Original amount of money borrowed or invested.
+
+### **R**
+
+*   **Return on Investment (ROI)**: Measure of profitability relative to investment cost.
+*   **Revenue**: Total income from sales before expenses.
+
+### **S**
+
+*   **Shareholder**: An individual or entity owning shares in a company.
+*   **Solvency**: Ability of a company to meet long-term obligations.
+
+### **T**
+
+*   **Tax Liability**: Amount of tax a company owes to the government.
+*   **Total Assets**: Sum of all resources owned by a company.
+
+***
+
+
+# Company Types
+Companies are generally classified based on **ownership structure, size, and how they raise capital**. Here are the main types:
+
+***
+
+### **1. Private Company**
+
+*   **Meaning**: Owned by a small group of individuals (founders, family, or private investors). Shares are **not traded publicly**.
+*   **Examples**:
+    *   Koch Industries
+    *   Cargill
+    *   SpaceX
+*   **Key Features**:
+    *   Limited disclosure requirements.
+    *   Easier decision-making (fewer shareholders).
+    *   Cannot raise funds by selling shares to the public.
+
+***
+
+### **2. Public Company**
+
+*   **Meaning**: A company whose shares are **listed on a stock exchange** and can be bought by the general public.
+*   **Examples**:
+    *   Apple Inc.
+    *   Meta Platforms (Facebook)
+    *   Tesla
+*   **Key Features**:
+    *   Must comply with strict regulations (SEC filings, audits).
+    *   Can raise large amounts of capital through public investors.
+    *   Subject to market fluctuations.
+
+***
+
+### **3. Partnership**
+
+*   **Meaning**: Owned by two or more individuals who share profits and liabilities.
+*   **Examples**:
+    *   Law firms, accounting firms.
+*   **Key Features**:
+    *   Partners have unlimited liability (in general partnerships).
+    *   Profits taxed as personal income.
+
+***
+
+### **4. Sole Proprietorship**
+
+*   **Meaning**: Owned and run by one individual.
+*   **Examples**:
+    *   Local shops, freelancers.
+*   **Key Features**:
+    *   Simple structure.
+    *   Owner has unlimited liability.
+
+***
+
+### **5. Limited Liability Company (LLC)**
+
+*   **Meaning**: Hybrid structure combining features of corporations and partnerships.
+*   **Examples**:
+    *   Many small businesses in the U.S.
+*   **Key Features**:
+    *   Owners have limited liability.
+    *   Flexible tax options.
+
+***
+
+### **6. Nonprofit Organization**
+
+*   **Meaning**: Operates for charitable, educational, or social purposes rather than profit.
+*   **Examples**:
+    *   Red Cross
+    *   Habitat for Humanity
+*   **Key Features**:
+    *   Tax-exempt status.
+    *   Profits reinvested into mission.
+
+***
+
+# Asset
+An **asset** in a company is any resource owned or controlled by the business that has economic value and can provide future benefits. Assets are recorded on the company’s balance sheet and are essential for operations, growth, and generating revenue.
+
+### **Types of Assets**
+
+1.  **Current Assets** (short-term, easily converted to cash within a year):
+    *   **Cash & Cash Equivalents** (bank balances, petty cash)
+    *   **Accounts Receivable** (money owed by customers)
+    *   **Inventory** (raw materials, finished goods)
+    *   **Prepaid Expenses** (insurance, rent paid in advance)
+
+2.  **Non-Current Assets** (long-term resources):
+    *   **Property, Plant & Equipment (PPE)** (buildings, machinery, vehicles)
+    *   **Intangible Assets** (patents, trademarks, goodwill)
+    *   **Long-term Investments** (stocks, bonds held for more than a year)
+
+3.  **Other Assets**:
+    *   **Deferred Tax Assets**
+    *   **Security Deposits**
+
+### **Examples**
+
+*   A company’s **office building** → Non-current asset
+*   **Computers and servers** → Non-current asset
+*   **Cash in bank** → Current asset
+*   **Inventory of products** → Current asset
+*   **Patent for a software product** → Intangible asset
+
+# Liability
+A **liability** in a company is an obligation the business owes to another party—usually as a result of borrowing money, purchasing goods/services on credit, or legal commitments. Liabilities represent something the company must settle in the future, typically with cash, goods, or services.
+
+***
+
+### **Types of Liabilities**
+
+1.  **Current Liabilities** (due within 12 months):
+    *   **Accounts Payable** – Money owed to suppliers for goods/services.
+    *   **Short-Term Loans** – Bank loans or lines of credit due within a year.
+    *   **Accrued Expenses** – Salaries, taxes, or interest payable.
+    *   **Unearned Revenue** – Payments received for services not yet delivered.
+
+2.  **Non-Current Liabilities** (due after 12 months):
+    *   **Long-Term Debt** – Bonds payable, long-term bank loans.
+    *   **Lease Obligations** – Payments under long-term lease agreements.
+    *   **Pension Liabilities** – Future employee retirement benefits.
+
+3.  **Contingent Liabilities** (possible obligations):
+    *   Lawsuits or guarantees that may result in payment if certain conditions occur.
+
+***
+
+### **Examples**
+
+*   **Bank loan of $500,000** → Long-term liability.
+*   **Supplier invoice of $10,000** → Accounts payable (current liability).
+*   **Taxes owed to the government** → Current liability.
+*   **Bond issued for $1 million** → Non-current liability.
+*   **Customer prepayment for a subscription** → Unearned revenue (current liability).
+
+***
+# Owner's Equity
+
+**Owner’s Equity** (also called **Shareholders’ Equity** or **Net Worth**) represents the residual interest in the company’s assets after deducting liabilities. In simple terms:
+
+$`
+\text{Owner’s Equity} = \text{Assets} - \text{Liabilities}
+`$
+
+It shows how much of the company is owned by its shareholders or owners.
+
+***
+
+### **Components of Owner’s Equity**
+
+1.  **Capital Contributions**
+    *   Money invested by owners or shareholders.
+    *   Example: Initial investment of $100,000 by the founder.
+
+2.  **Retained Earnings**
+    *   Profits kept in the business instead of being distributed as dividends.
+    *   Example: $50,000 profit retained from previous years.
+
+3.  **Additional Paid-In Capital**
+    *   Amount paid by shareholders above the par value of shares.
+    *   Example: Shares issued at $10 when par value is $1.
+
+4.  **Treasury Stock** (negative equity)
+    *   Shares repurchased by the company.
+    *   Example: Company buys back $20,000 worth of its own shares.
+
+***
+
+### **Examples**
+
+*   A small business with:
+    *   **Assets** = $500,000
+    *   **Liabilities** = $300,000  
+        → **Owner’s Equity** = $200,000
+
+*   For a corporation:
+    *   **Common Stock** = $100,000
+    *   **Retained Earnings** = $250,000
+    *   **Treasury Stock** = -$50,000  
+        → Total Owner’s Equity = $300,000
+
+***
+
