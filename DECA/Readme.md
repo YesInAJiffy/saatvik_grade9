@@ -269,3 +269,57 @@ It shows how much of the company is owned by its shareholders or owners.
 
 ***
 
+
+Here’s a deeper dive into the **top three financial statements** for a public company:
+
+***
+
+### **1. Income Statement (Profit & Loss Statement)**
+
+*   **Purpose:** Measures profitability over a specific period (quarter or year).
+*   **Structure:**
+    *   **Revenue:** Total sales from goods/services.
+    *   **Cost of Goods Sold (COGS):** Direct costs of production.
+    *   **Gross Profit:** Revenue – COGS.
+    *   **Operating Expenses:** Selling, General & Administrative (SG\&A), R\&D.
+    *   **Operating Income:** Profit from core operations.
+    *   **Other Income/Expenses:** Interest, taxes, non-operating items.
+    *   **Net Income:** Final profit after all expenses and taxes.
+*   **Key Metric:** **Earnings Per Share (EPS)** for shareholders.
+
+<img width="1050" height="564" alt="image" src="https://github.com/user-attachments/assets/018e8723-c556-48fb-8141-18c47d67ca80" />
+
+***
+
+### **2. Balance Sheet**
+
+*   **Purpose:** Snapshot of financial position at a point in time.
+*   **Structure:**
+    *   **Assets:**
+        *   *Current:* Cash, accounts receivable, inventory.
+        *   *Non-current:* Property, plant, equipment, intangible assets.
+    *   **Liabilities:**
+        *   *Current:* Accounts payable, short-term debt.
+        *   *Long-term:* Bonds, loans.
+    *   **Shareholders’ Equity:** Common stock, retained earnings.
+*   **Key Equation:**  
+    $$\text{Assets} = \text{Liabilities} + \text{Equity}$$
+*   **Insight:** Shows liquidity, leverage, and capital structure.
+<img width="535" height="264" alt="image" src="https://github.com/user-attachments/assets/f89007a8-1ce9-403d-86e4-044357a6e4e8" />
+<img width="960" height="640" alt="image" src="https://github.com/user-attachments/assets/709cc79a-c14f-446a-97a9-d45afcb4960f" />
+
+***
+
+### **3. Cash Flow Statement**
+
+*   **Purpose:** Tracks actual cash movement (not just accrual accounting).
+*   **Sections:**
+    *   **Operating Activities:** Cash from core business (net income adjusted for non-cash items).
+    *   **Investing Activities:** Buying/selling assets, acquisitions.
+    *   **Financing Activities:** Issuing stock, paying dividends, borrowing/repaying debt.
+*   **Key Insight:** Indicates ability to generate cash and fund operations.
+
+***
+
+
+
