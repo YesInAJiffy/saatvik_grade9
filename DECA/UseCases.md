@@ -182,6 +182,7 @@ Would you like me to **create a full training guide for tellers with this script
 
 # Use Case 10
 <img width="714" height="494" alt="image" src="https://github.com/user-attachments/assets/52e58c38-3336-4dd6-9d61-1cfdff3924a6" />
+
 Thank you for sharing the event situation. Here’s an **elaborate role-play script with detailed explanation and possible follow-up questions** based on the scenario:
 
 ***
