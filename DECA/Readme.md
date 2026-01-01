@@ -488,6 +488,7 @@ A **business plan** is a formal document that outlines the goals of a business a
 
 
 # Banking Roles
+## Bank Teller
 
 A **bank teller** is the frontline employee who handles day-to-day transactions for customers. Their main responsibilities include:
 
@@ -501,7 +502,7 @@ A **bank teller** is the frontline employee who handles day-to-day transactions 
 Tellers are often the first point of contact for customers, so they play a key role in building trust and ensuring smooth banking experiences.
 
 ***
-
+## Loan Officer
 A **Loan Officer** is a banking professional who specializes in helping customers obtain loans. Here’s a detailed description:
 
 ***
@@ -528,6 +529,7 @@ A **Loan Officer** is a banking professional who specializes in helping customer
 
 ***
 
+## Loan Manager
 A **Loan Manager** is a senior-level banking professional responsible for overseeing the entire loan process and managing the loan department. Here’s a detailed description:
 
 ***
@@ -573,6 +575,7 @@ A **Loan Manager** is a senior-level banking professional responsible for overse
 **Goal:**  
 Maintain a healthy loan portfolio, ensure customer satisfaction, and uphold regulatory compliance.
 
+## Financial Planner
 ***
 A **Financial Planner** is a professional who helps individuals and families manage their money and plan for their financial future. Here’s a detailed description:
 
@@ -617,3 +620,100 @@ A **Financial Planner** is a professional who helps individuals and families man
 Help clients make informed decisions to secure their financial future and achieve peace of mind.
 
 ***
+
+## Currency Exchange Teller
+A **Currency Exchange Teller** is a specialized banking or financial services employee who handles transactions involving foreign currencies. Here’s a detailed description:
+
+***
+
+### **Role of a Currency Exchange Teller**
+
+*   **Primary Responsibility:**  
+    Assist customers in buying or selling foreign currency for travel, business, or international transactions.
+
+***
+
+#### **Key Duties**
+
+1.  **Exchange Transactions:**  
+    Convert one currency to another based on current exchange rates.
+
+2.  **Rate Information:**  
+    Inform customers about the latest exchange rates and any applicable fees or commissions.
+
+3.  **Compliance and Documentation:**  
+    Verify identification and ensure transactions comply with anti-money laundering (AML) and regulatory requirements.
+
+4.  **Cash Handling:**  
+    Count, verify, and dispense foreign currency accurately.
+
+5.  **Customer Service:**  
+    Answer questions about currency limits, travel money, and related services.
+
+***
+
+#### **Skills Required**
+
+*   Strong attention to detail and accuracy.
+*   Knowledge of exchange rates and financial regulations.
+*   Good customer service and communication skills.
+
+***
+
+#### **Where They Work**
+
+*   Banks with foreign exchange services.
+*   Currency exchange kiosks at airports or travel hubs.
+*   Specialized foreign exchange companies.
+
+***
+
+## Bank President
+A **Bank President** is the highest-ranking executive in a bank, responsible for overall leadership and strategic direction. Here’s a detailed breakdown:
+
+***
+
+### **Role of a Bank President**
+
+*   **Primary Responsibility:**  
+    Oversee all operations of the bank, ensure profitability, maintain regulatory compliance, and guide the institution toward its long-term goals.
+
+***
+
+#### **Key Duties**
+
+1.  **Strategic Leadership:**  
+    Develop and implement the bank’s vision, mission, and growth strategies.
+
+2.  **Financial Oversight:**  
+    Monitor financial performance, approve budgets, and ensure profitability.
+
+3.  **Regulatory Compliance:**  
+    Ensure the bank adheres to all laws, regulations, and industry standards.
+
+4.  **Risk Management:**  
+    Identify and mitigate financial and operational risks.
+
+5.  **Stakeholder Relations:**  
+    Maintain relationships with shareholders, regulators, and major clients.
+
+6.  **Team Leadership:**  
+    Supervise senior executives like Vice Presidents, Branch Managers, and Department Heads.
+
+***
+
+#### **Skills Required**
+
+*   Strong leadership and decision-making abilities.
+*   Deep knowledge of banking operations, finance, and regulations.
+*   Excellent communication and negotiation skills.
+
+***
+
+#### **Position in Hierarchy**
+
+*   The Bank President typically reports to the **Board of Directors** and may also hold the title of **CEO** in some institutions.
+*   Below the President are **Executive Vice Presidents**, **Senior Vice Presidents**, and other department heads.
+
+***
+
