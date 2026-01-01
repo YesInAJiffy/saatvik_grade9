@@ -56,8 +56,7 @@ Here’s an **elaborate write-up** you can use for the role-play scenario as the
 ***
 
 # Use Case 2
-
-<img width="726" height="456" alt="image" src="https://github.com/user-attachments/assets/2807935c-2f28-4c50-bb58-66eb416dba78" />
+<img width="728" height="391" alt="image" src="https://github.com/user-attachments/assets/280ca5c9-d8a7-43b4-9ea3-abc5a7c470e2" />
 
 Here’s an **elaborate role-play script** for your scenario:
 
