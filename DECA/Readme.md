@@ -5,7 +5,7 @@
 
 *   **Accounts Payable (AP)**: Money a company owes to suppliers for goods/services purchased on credit.
 *   **Accounts Receivable (AR)**: Money owed to the company by customers for goods/services sold on credit.
-*   **Amortization**: Gradual reduction of a debt or intangible asset value over time.
+*   **IGNORE Amortization**: Gradual reduction of a debt or intangible asset value over time.
 
 ### **B**
 
