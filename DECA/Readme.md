@@ -329,10 +329,9 @@ The **Quick Ratio** (also called the **Acid-Test Ratio**) is a liquidity metric 
 
 ### **Formula**
 
-\[
+$`
 \text{Quick Ratio} = \frac{\text{Current Assets} - \text{Inventory}}{\text{Current Liabilities}}
-]
-
+`$
 ***
 
 ### **Why exclude inventory?**
