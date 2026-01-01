@@ -321,5 +321,140 @@ Here’s a deeper dive into the **top three financial statements** for a public 
 
 ***
 
+# KEY TERMINOLGIES
+
+The **Quick Ratio** (also called the **Acid-Test Ratio**) is a liquidity metric that measures a company’s ability to meet its short-term obligations using its most liquid assets—excluding inventory.
+
+***
+
+### **Formula**
+
+\[
+\text{Quick Ratio} = \frac{\text{Current Assets} - \text{Inventory}}{\text{Current Liabilities}}
+]
+
+***
+
+### **Why exclude inventory?**
+
+Inventory is less liquid than cash or receivables because it takes time to sell and convert into cash. The quick ratio focuses on assets that can be quickly turned into cash.
+
+***
+
+### **Interpretation**
+
+*   **Quick Ratio > 1:** Company has more liquid assets than current liabilities → good short-term financial health.
+*   **Quick Ratio < 1:** Company may struggle to cover short-term obligations without selling inventory.
+
+***
+
+### **Example using TechNova Inc.**
+
+From the Balance Sheet:
+
+*   **Current Assets:** Cash ($150,000) + Accounts Receivable ($100,000) + Inventory ($50,000) = $300,000
+*   **Current Liabilities:** Accounts Payable ($70,000) + Short-term Debt ($30,000) = $100,000
+
+$`
+\text{Quick Ratio} = \frac{300{,}000 - 50{,}000}{100{,}000} = \frac{250{,}000}{100{,}000} = 2.5
+`$
+
+**Meaning:** TechNova has $2.50 in liquid assets for every $1 of current liabilities → very strong liquidity.
+
+***
+
+Here’s a detailed explanation of the two ratios for **TechNova Inc.**:
+
+***
+
+### **1. Current Ratio**
+
+**Formula:**
+$`
+\text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}}
+`$
+
+From TechNova’s Balance Sheet:
+
+*   **Current Assets:** $150,000 (Cash) + $100,000 (Accounts Receivable) + $50,000 (Inventory) = **$300,000**
+*   **Current Liabilities:** $70,000 (Accounts Payable) + $30,000 (Short-term Debt) = **$100,000**
+
+$`
+\text{Current Ratio} = \frac{300{,}000}{100{,}000} = 3.0
+`$
+
+**Interpretation:**  
+TechNova has $3 in current assets for every $1 in current liabilities → excellent short-term liquidity.
+
+***
+
+### **2. Debt-to-Equity Ratio**
+
+**Formula:**
+$`
+\text{Debt-to-Equity} = \frac{\text{Total Liabilities}}{\text{Shareholders’ Equity}}
+`$
+
+From TechNova’s Balance Sheet:
+
+*   **Total Liabilities:** $300,000
+*   **Equity:** $500,000
+
+$`
+\text{Debt-to-Equity} = \frac{300{,}000}{500{,}000} = 0.6
+`$
+
+**Interpretation:**  
+For every $1 of equity, TechNova has $0.60 of debt → moderate leverage, generally considered healthy.
+
+***
+
+✅ **Summary of Ratios:**
+
+*   **Quick Ratio:** 2.5 (very strong liquidity)
+*   **Current Ratio:** 3.0 (excellent liquidity)
+*   **Debt-to-Equity:** 0.6 (balanced capital structure)
+
+***
+
+**Working Capital** is a measure of a company’s short-term financial health and operational efficiency. It represents the difference between **current assets** and **current liabilities**.
+
+***
+
+### **Formula**
+
+$`
+\text{Working Capital} = \text{Current Assets} - \text{Current Liabilities}
+`$
+
+***
+
+### **Interpretation**
+
+*   **Positive Working Capital:** The company can cover its short-term obligations and still have resources left for operations → generally healthy.
+*   **Negative Working Capital:** The company may struggle to pay short-term debts → potential liquidity risk.
+
+***
+
+### **Example with TechNova Inc.**
+
+From the Balance Sheet:
+
+*   **Current Assets:** $300,000 (Cash + Accounts Receivable + Inventory)
+*   **Current Liabilities:** $100,000 (Accounts Payable + Short-term Debt)
+
+$`
+\text{Working Capital} = 300{,}000 - 100{,}000 = 200{,}000
+`$
+
+**Meaning:** TechNova has $200,000 more in current assets than current liabilities → strong short-term financial position.
+
+***
+
+✅ **Key Insight:**  
+Working Capital is a raw number, while **Current Ratio** and **Quick Ratio** are relative measures. All three together give a complete picture of liquidity.
+
+***
+
 
 
