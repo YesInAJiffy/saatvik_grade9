@@ -717,3 +717,38 @@ A **Bank President** is the highest-ranking executive in a bank, responsible for
 
 ***
 
+# Banking Accounts
+Great question! Here’s the **difference between a savings account and a checking account**:
+
+***
+
+### **Savings Account**
+
+*   **Purpose:** Designed for saving money and earning interest over time.
+*   **Features:**
+    *   Typically earns interest on your balance.
+    *   Limited number of withdrawals per month (due to regulations).
+    *   Best for building an emergency fund or saving for future goals.
+*   **Pros:** Helps you grow your money safely; encourages saving.
+*   **Cons:** Not ideal for frequent transactions.
+
+***
+
+### **Checking Account**
+
+*   **Purpose:** Designed for everyday transactions and spending.
+*   **Features:**
+    *   Allows unlimited deposits and withdrawals.
+    *   Comes with a debit card and check-writing privileges.
+    *   Often used for paying bills, shopping, and accessing cash.
+*   **Pros:** Convenient for daily use; easy access to funds.
+*   **Cons:** Usually earns little or no interest.
+
+***
+
+**Key Difference:**
+
+*   **Savings account = for saving and earning interest.**
+*   **Checking account = for spending and frequent transactions.**
+
+***
