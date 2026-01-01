@@ -17,7 +17,7 @@
 
 *   **Capital**: Financial resources used to start or operate a business.
 *   **Cash Flow**: Movement of money in and out of a business.
-*   **Cost of Goods Sold (COGS)**: Direct costs of producing goods sold by a company.
+*   **Cost of Goods Sold (COGS)**: The total money a business spends to make or buy the products it sells.
 
 ### **D**
 
