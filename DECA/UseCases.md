@@ -180,4 +180,104 @@ Would you like me to **create a full training guide for tellers with this script
 
 
 
-Would you like me to **create a polished one-page handout** summarizing these points for the judge, or **write a more detailed role-play dialogue with possible follow-up questions and answers**?
+# Use Case 10
+<img width="714" height="494" alt="image" src="https://github.com/user-attachments/assets/52e58c38-3336-4dd6-9d61-1cfdff3924a6" />
+Thank you for sharing the event situation. Here’s an **elaborate role-play script with detailed explanation and possible follow-up questions** based on the scenario:
+
+***
+
+### **Role-Play Context**
+
+You are a **bank teller at THOMPSON BANK**, and your new coworker (judge) is asking how to demonstrate **positive customer relations** with **drive-through customers**, where interaction is limited. The bank policy allows only deposits, withdrawals, and check cashing at the drive-through. The system includes cameras and speakers for communication.
+
+***
+
+### **Role-Play Script**
+
+**Coworker (Judge):**  
+*"I just finished orientation, and I heard that THOMPSON BANK values ‘service with a smile.’ How can we build positive relationships with customers when we only interact through the drive-through?"*
+
+***
+
+**Bank Teller (You):**  
+*"Great question! Even though drive-through interactions are brief, we can still create a positive experience by focusing on three key things: **clear communication, friendliness, and efficiency.** Let me explain each."*
+
+***
+
+#### **1. Greet Customers Warmly**
+
+*"Start every interaction with a friendly greeting and a smile—even though they see us through a camera, a smile shows in your tone of voice. For example:  
+‘Good morning! Thank you for choosing THOMPSON BANK. How can I assist you today?’  
+This sets a positive tone right away."*
+
+***
+
+#### **2. Communicate Clearly**
+
+*"Because we’re using speakers, clarity is important. Speak slowly, use the customer’s name if possible, and confirm details. For example:  
+‘Just to confirm, you’d like to deposit $200 into your checking account ending in 1234, correct?’  
+This avoids mistakes and shows professionalism."*
+
+***
+
+#### **3. Show Appreciation**
+
+*"Always thank the customer at the end of the transaction. For example:  
+‘Thank you for banking with us! We appreciate your business. Have a wonderful day!’  
+This leaves a lasting positive impression."*
+
+***
+
+#### **4. Handle Issues Professionally**
+
+*"If a customer requests something that can’t be done at the drive-through, explain politely:  
+‘For security reasons, certain transactions need to be completed inside the branch. I’d be happy to assist you there.’  
+This shows respect and helpfulness."*
+
+***
+
+### **Possible Follow-Up Questions and Answers**
+
+**Coworker:**  
+*"What if the customer is in a hurry and seems impatient?"*  
+**You:**  
+*"Stay calm, work efficiently, and acknowledge their time:  
+‘I’ll process this as quickly as possible for you.’  
+Never rush so much that you make mistakes, but show you value their time."*
+
+***
+
+**Coworker:**  
+*"How do we handle customers who are upset about limited services at the drive-through?"*  
+**You:**  
+*"Empathize and explain:  
+‘I understand it can be inconvenient. Our policy is for security and accuracy. I can help you inside the branch for those services.’  
+Always keep your tone positive and solution-focused."*
+
+***
+
+**Coworker:**  
+*"Can we promote other bank services during drive-through interactions?"*  
+**You:**  
+*"Yes, but keep it brief and relevant. For example:  
+‘By the way, we have a new mobile app that makes deposits even easier. Would you like me to send you details?’  
+This adds value without slowing the transaction."*
+
+***
+
+**Coworker:**  
+*"What’s the most important thing to remember?"*  
+**You:**  
+*"Always give **service with a smile**, even through the speaker. Your tone, clarity, and appreciation make the customer feel valued."*
+
+***
+
+**Coworker (Judge):**  
+*"Thank you for explaining everything. That was very helpful!"*  
+**You:**  
+*"You’re welcome! I’m glad I could help. Providing excellent service is what makes THOMPSON BANK stand out."*
+
+***
+
+
+
