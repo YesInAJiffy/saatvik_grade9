@@ -487,3 +487,133 @@ A **business plan** is a formal document that outlines the goals of a business a
 
 
 
+# Banking Roles
+
+A **bank teller** is the frontline employee who handles day-to-day transactions for customers. Their main responsibilities include:
+
+*   **Processing deposits and withdrawals**
+*   **Cashing checks**
+*   **Accepting loan payments**
+*   **Issuing cashier’s checks or money orders**
+*   **Answering basic account questions**
+*   **Providing excellent customer service**
+
+Tellers are often the first point of contact for customers, so they play a key role in building trust and ensuring smooth banking experiences.
+
+***
+
+A **Loan Officer** is a banking professional who specializes in helping customers obtain loans. Here’s a detailed description:
+
+***
+
+### **Role of a Loan Officer**
+
+*   **Primary Responsibility:**  
+    Evaluate, authorize, or recommend approval of loan applications for individuals and businesses.
+
+*   **Key Duties:**
+    1.  **Assess Loan Applications:** Review customer financial information, credit history, and income to determine eligibility.
+    2.  **Explain Loan Products:** Help customers understand different types of loans (personal, auto, mortgage, business) and their terms.
+    3.  **Guide Through Process:** Assist customers in completing applications and gathering required documents.
+    4.  **Risk Analysis:** Analyze the borrower’s ability to repay and ensure compliance with banking regulations.
+    5.  **Customer Relationship:** Build trust and maintain long-term relationships for future financial needs.
+
+*   **Skills Required:**
+    *   Strong knowledge of banking and lending regulations.
+    *   Analytical skills for credit evaluation.
+    *   Excellent communication and customer service skills.
+
+*   **Goal:**  
+    Ensure loans are granted responsibly, balancing customer needs with the bank’s risk management.
+
+***
+
+A **Loan Manager** is a senior-level banking professional responsible for overseeing the entire loan process and managing the loan department. Here’s a detailed description:
+
+***
+
+### **Role of a Loan Manager**
+
+*   **Primary Responsibility:**  
+    Supervise loan officers and analysts, ensure compliance with lending policies, and manage the bank’s loan portfolio to minimize risk and maximize profitability.
+
+***
+
+#### **Key Duties**
+
+1.  **Team Management:**  
+    Lead and train loan officers, set performance goals, and monitor productivity.
+
+2.  **Loan Approval Oversight:**  
+    Review and approve large or complex loan applications, ensuring they meet regulatory and internal standards.
+
+3.  **Risk Management:**  
+    Analyze credit risk across the portfolio and implement strategies to reduce defaults.
+
+4.  **Policy Compliance:**  
+    Ensure all lending activities comply with banking regulations and internal policies.
+
+5.  **Customer Relationship Management:**  
+    Handle high-value clients and resolve escalated issues related to loans.
+
+6.  **Reporting and Analysis:**  
+    Prepare reports on loan performance, delinquency rates, and profitability for senior management.
+
+***
+
+#### **Skills Required**
+
+*   Strong leadership and management skills.
+*   In-depth knowledge of lending regulations and risk assessment.
+*   Analytical and decision-making abilities.
+*   Excellent communication and negotiation skills.
+
+***
+
+**Goal:**  
+Maintain a healthy loan portfolio, ensure customer satisfaction, and uphold regulatory compliance.
+
+***
+A **Financial Planner** is a professional who helps individuals and families manage their money and plan for their financial future. Here’s a detailed description:
+
+***
+
+### **Role of a Financial Planner**
+
+*   **Primary Responsibility:**  
+    Provide advice and strategies to help clients achieve their financial goals, such as saving for retirement, buying a home, or funding education.
+
+***
+
+#### **Key Duties**
+
+1.  **Assess Client’s Financial Situation:**  
+    Review income, expenses, assets, liabilities, and current investments.
+
+2.  **Set Financial Goals:**  
+    Work with clients to define short-term and long-term objectives (e.g., emergency fund, retirement savings).
+
+3.  **Create a Financial Plan:**  
+    Develop a personalized roadmap that includes budgeting, saving, investing, insurance, and tax strategies.
+
+4.  **Investment Guidance:**  
+    Recommend suitable investment options based on risk tolerance and time horizon.
+
+5.  **Monitor and Adjust Plans:**  
+    Regularly review and update the plan as life circumstances or market conditions change.
+
+***
+
+#### **Skills Required**
+
+*   Strong knowledge of financial products and markets.
+*   Analytical and planning skills.
+*   Communication and interpersonal skills to explain complex concepts clearly.
+
+***
+
+#### **Goal**
+
+Help clients make informed decisions to secure their financial future and achieve peace of mind.
+
+***
