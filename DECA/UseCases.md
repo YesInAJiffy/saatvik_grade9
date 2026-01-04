@@ -1,3 +1,11 @@
+# Opening/Closing Statements.
+✅ General Opening Statements
+“Good morning! Welcome to [Bank Name]. How can I assist (or help) you today?”
+
+✅ General Closing Statements
+“Thank you for banking with [Bank Name]. Is there anything else I can assist you with today?”
+“I appreciate your time today. Have a good rest of your day.”
+
 # Use Case 1
 
 <img width="1298" height="719" alt="image" src="https://github.com/user-attachments/assets/98c4f2a4-4dba-4ada-8a3e-43bd5bf94db9" />
