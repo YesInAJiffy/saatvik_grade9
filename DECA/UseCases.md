@@ -3,7 +3,8 @@
 “Good morning! Welcome to [Bank Name]. My name is Saatvik, how can I assist (or help) you today?”
 
 ✅ General Closing Statements
-“Thank you for banking with [Bank Name]. Is there anything else I can assist you with today?”
+“Thank you for banking with [Bank Name]. Is there anything else I can assist you with today?” <br/> <br/>
+After customer replies <br/> <br/>
 “I appreciate your time today. Have a good rest of your day.”
 
 # Use Case 1
