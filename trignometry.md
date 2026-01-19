@@ -262,3 +262,250 @@ for all ( x ), where ( T ) is the **period**.
 
 ***
 
+
+# Law of Sines
+
+***
+
+# ✅ **Law of Sines (Sine Rule)**
+
+For any triangle $$ABC$$:
+
+$$
+\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}
+$$
+
+Where:
+
+*   $$a$$ is the side **opposite angle $$A$$**
+*   $$b$$ is the side **opposite angle $$B$$**
+*   $$c$$ is the side **opposite angle $$C$$**
+
+***
+
+# ✅ **When to Use the Law of Sines**
+
+Use the sine rule when you know:
+
+### **1. Two angles and one side (AAS or ASA)**
+
+→ You can find the third angle, then use the Law of Sines.
+
+### **2. Two sides and a non‑included angle (SSA)**
+
+→ **Ambiguous case**: sometimes 0, 1, or 2 solutions.
+
+***
+
+# 🇧🇾 **How You Used It in Your Triangle**
+
+Your triangle had:
+
+*   $$A = 93^\circ$$
+*   $$B = 14^\circ$$
+*   Side opposite $$A$$: $$a = 52$$
+
+First find angle $$C$$:
+
+$$
+C = 180^\circ - 93^\circ - 14^\circ = 73^\circ
+$$
+
+Now apply the sine rule:
+
+### **Side $$AB = c$$** (opposite $$C$$)
+
+$$
+\frac{c}{\sin 73^\circ} = \frac{52}{\sin 93^\circ}
+$$
+
+### **Side $$AC = b$$** (opposite $$B$$)
+
+$$
+\frac{b}{\sin 14^\circ} = \frac{52}{\sin 93^\circ}
+$$
+
+This is exactly how the **Law of Sines** works.
+
+***
+
+
+# Law of Cosines
+***
+
+# ✅ **The Cosine Rule (Law of Cosines)**
+
+For any triangle with sides $$a, b, c$$ opposite angles $$A, B, C$$:
+
+$$
+\boxed{a^2 = b^2 + c^2 - 2bc\cos A}
+$$
+
+$$
+b^2 = a^2 + c^2 - 2ac\cos B
+$$
+
+$$
+c^2 = a^2 + b^2 - 2ab\cos C
+$$
+
+***
+
+# 🔍 **When to Use the Cosine Rule**
+
+Use the Cosine Rule when you have:
+
+### **1. Two sides and the included angle (SAS)**
+
+Example: you know $$b$$, $$c$$, and angle $$A$$.  
+→ Use $$a^2 = b^2 + c^2 - 2bc\cos A$$
+
+### **2. All three sides (SSS)**
+
+Example: you know $$a$$, $$b$$, and $$c$$.  
+→ Use the rule to find any angle.
+
+***
+
+# 🧠 **Why the Cosine Rule Works (Simple Derivation)**
+
+Consider a triangle with sides $$b$$ and $$c$$, and angle $$A$$ between them.  
+Drop a perpendicular to create a right triangle.
+
+Let $$h$$ be the height, and let the base be split into segments:
+
+*   One segment = $$c\cos A$$
+*   Height = $$c\sin A$$
+
+Using the Pythagorean theorem on the full base:
+
+$$
+a^2 = (b - c\cos A)^2 + (c\sin A)^2
+$$
+
+Expand:
+
+$$
+a^2 = b^2 - 2bc\cos A + c^2(\cos^2 A + \sin^2 A)
+$$
+
+But:
+
+$$
+\cos^2 A + \sin^2 A = 1
+$$
+
+So:
+
+$$
+\boxed{a^2 = b^2 + c^2 - 2bc\cos A}
+$$
+
+This works for any triangle.
+
+***
+
+# 🎯 **Quick Example**
+
+Given:
+
+*   $$b = 7$$
+*   $$c = 10$$
+*   $$\angle A = 45^\circ$$
+
+Find $$a$$:
+
+$$
+a^2 = 7^2 + 10^2 - 2(7)(10)\cos 45^\circ
+$$
+
+$$
+a^2 = 49 + 100 - 140(0.7071)
+$$
+
+$$
+a^2 = 149 - 98.994
+$$
+
+$$
+a \approx 10.102
+$$
+
+***
+
+# Area of Triangle
+
+Here is the **Area of a Triangle Using the Sine Formula**, explained simply and clearly.
+
+***
+
+# ✅ **Area of a Triangle Using Sine**
+
+If you know **two sides** of a triangle and the **included angle** between them, the area is:
+
+$$
+\boxed{A = \frac12 ab \sin(C)}
+$$
+
+Where:
+
+*   $$a$$ and $$b$$ are two sides,
+*   $$C$$ is the angle **between** sides $$a$$ and $$b$$.
+
+***
+
+# 🧠 **Why This Formula Works**
+
+Start with the basic area formula:
+
+$$
+A = \frac12 (\text{base})(\text{height})
+$$
+
+Choose side $$b$$ as the base.  
+Drop a perpendicular from the opposite vertex to form height $$h$$.
+
+In the right triangle formed:
+
+$$
+h = a \sin(C)
+$$
+
+(Substitute height)
+
+$$
+A = \frac12 (b)(a \sin(C))
+$$
+
+Rearrange:
+
+$$
+\boxed{A = \frac12 ab \sin(C)}
+$$
+
+***
+
+# 🎯 **When to Use This Formula**
+
+Use it when triangle info is:
+
+*   **SAS** (Two sides and included angle)
+*   Example: $$a = 10$$, $$b = 7$$, $$C = 40^\circ$$
+
+$$
+A = \frac12 (10)(7)\sin(40^\circ)
+$$
+
+$$
+A \approx 22.497
+$$
+
+***
+
+# 📌 Summary
+
+$$
+\boxed{A = \frac12 ab \sin(C)}
+$$
+
+
