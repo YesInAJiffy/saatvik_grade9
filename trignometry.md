@@ -508,4 +508,100 @@ $$
 \boxed{A = \frac12 ab \sin(C)}
 $$
 
+Absolutely — here is a complete, organized list of all **cofunction identities** and **π/2 shift identities** like the one you referenced:
+
+$$
+\cot\left(\frac{\pi}{2}+x\right) = -\tan(x)
+$$
+
+These identities tell you how trig functions transform when shifted by **$$\frac{\pi}{2}$$** (90°).  
+They are extremely useful for simplifying expressions like the ones in your problems.
+
+***
+
+# ⭐ **FULL LIST OF $$\frac{\pi}{2} \pm x$$ TRIG IDENTITIES**
+
+## ✅ **Sine & Cosine**
+
+$$
+\sin\left(\frac{\pi}{2} - x\right) = \cos x
+$$
+
+$$
+\sin\left(\frac{\pi}{2} + x\right) = \cos x
+$$
+
+$$
+\cos\left(\frac{\pi}{2} - x\right) = \sin x
+$$
+
+$$
+\cos\left(\frac{\pi}{2} + x\right) = -\sin x
+$$
+
+***
+
+## ✅ **Tangent & Cotangent**
+
+$$
+\tan\left(\frac{\pi}{2} - x\right) = \cot x
+$$
+
+$$
+\tan\left(\frac{\pi}{2} + x\right) = -\cot x
+$$
+
+$$
+\cot\left(\frac{\pi}{2} - x\right) = \tan x
+$$
+
+$$
+\cot\left(\frac{\pi}{2} + x\right) = -\tan x
+$$
+
+(The last one is exactly the identity you showed.)
+
+***
+
+## ✅ **Secant & Cosecant**
+
+$$
+\sec\left(\frac{\pi}{2} - x\right) = \csc x
+$$
+
+$$
+\sec\left(\frac{\pi}{2} + x\right) = \csc x
+$$
+
+$$
+\csc\left(\frac{\pi}{2} - x\right) = \sec x
+$$
+
+$$
+\csc\left(\frac{\pi}{2} + x\right) = -\sec x
+$$
+
+***
+
+# ⭐ Why signs change?
+
+Because shifting by **$$\frac{\pi}{2}$$** moves the angle into a different quadrant, and each trig function has different signs depending on the quadrant.
+
+***
+
+# ⭐ Summary Table
+
+Here is a clean summary:
+
+| Function | $$\frac{\pi}{2} - x$$ | $$\frac{\pi}{2} + x$$ |
+| -------- | --------------------- | --------------------- |
+| $$\sin$$ | $$\cos x$$            | $$\cos x$$            |
+| $$\cos$$ | $$\sin x$$            | $$-\sin x$$           |
+| $$\tan$$ | $$\cot x$$            | $$-\cot x$$           |
+| $$\cot$$ | $$\tan x$$            | $$-\tan x$$           |
+| $$\sec$$ | $$\csc x$$            | $$\csc x$$            |
+| $$\csc$$ | $$\sec x$$            | $$-\sec x$$           |
+
+***
+
 
