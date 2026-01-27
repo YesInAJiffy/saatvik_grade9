@@ -69,5 +69,9 @@ This one number tells you the "shape" of the conic.
 Every point on the conic satisfies this ratio.
 
 ***
+
+<img width="1024" height="1024" alt="Designer-11" src="https://github.com/user-attachments/assets/f874d399-ae5c-4331-b655-b187f1e75db2" />
+
+
 <img width="1024" height="1024" alt="Designer-10" src="https://github.com/user-attachments/assets/40b6e6c0-c72c-441f-b2f7-e50e1a1a1a2a" />
 
