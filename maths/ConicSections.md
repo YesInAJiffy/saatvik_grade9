@@ -1,4 +1,4 @@
-Here’s a clear, simple explanation of **focus**, **eccentricity**, and **directrix** in **conic sections** (parabola, ellipse, hyperbola).
+A parabola is the set of all points in a plane which are an equal distance from a given point (focus) and a given line (directrix).
 
 ***
 
