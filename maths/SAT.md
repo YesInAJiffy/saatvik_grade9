@@ -236,3 +236,51 @@ $$(6-8)^2 + (8-8)^2 + (10-8)^2 = (-2)^2 + 0^2 + 2^2 = 8$$
 
 
 > **Conclusion:** Because Dataset (c) has the largest sum of squared differences (8), it results in the **highest standard deviation**. Dataset (a) has no difference from the mean, resulting in a standard deviation of **0**.
+> 
+
+# QUESTION L HOPITAL's RULE
+
+# Calculus Note: Limits
+
+## Problem
+Evaluate the limit:
+$$\lim_{x \to 1} \frac{\ln(x)}{x-1}$$
+
+## Solution
+When substituting $x = 1$ into the expression, we encounter an indeterminate form of $\frac{0}{0}$:
+* $\ln(1) = 0$
+* $1 - 1 = 0$
+
+To solve this, we apply **L'Hôpital's Rule** by taking the derivative of the numerator and the denominator:
+
+1. **Derivative of the numerator:** $\frac{d}{dx}(\ln x) = \frac{1}{x}$
+2. **Derivative of the denominator:** $\frac{d}{dx}(x - 1) = 1$
+
+Now, evaluate the limit of the derivatives:
+$$\lim_{x \to 1} \frac{1/x}{1} = \frac{1}{1} = 1$$
+
+**Final Value:** The limit is **1**.
+
+
+# Period in Trignometry
+
+In trigonometry, the period is the horizontal distance (along the x-axis) that a function takes to complete one full "cycle" before it begins repeating itself.
+
+# Question
+The period of  is ****.
+
+### Here is the explanation:
+
+1. **The Standard Period:** The basic tangent function, , has a standard period of ****.
+2. **The Formula:** When you have a coefficient () in front of the , the formula to find the new period is:
+
+
+3. **Identify :** In your equation , the value of  is ****.
+4. **Calculate:** 
+
+5. **Simplify:** The  values cancel out, leaving you with ****.
+
+**Why the "+4" doesn't matter:**
+The  is a horizontal shift (it moves the graph left or right). It changes *where* the wave starts, but it doesn't change how *long* the wave is. Only the number attached to the  changes the period.
+
+Would you like to know how to find the vertical asymptotes for this specific function?
