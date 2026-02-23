@@ -171,3 +171,68 @@ What is the probability of drawing a **Heart** OR a **King**?
 ---
 
 > **Pro Tip:** If your addition results in a probability greater than **1** (or 100%), you’ve likely forgotten to subtract the overlap! Probability can never exceed 1.
+> 
+
+
+# Standard Deviation
+Standard deviation is a mathematical measurement used to determine how **spread out** a set of data is. It tells you whether your numbers are huddled closely around the average (mean) or scattered far away from it.
+
+Think of it as a "consistency meter":
+
+* **Low Standard Deviation:** The data points are very close to the mean. The dataset is consistent and predictable.
+* **High Standard Deviation:** The data points are spread out over a wide range. The dataset is diverse or volatile.
+
+---
+
+### The Visual: The Bell Curve
+
+In a "normal distribution" (the classic bell curve), standard deviation defines where the majority of your data sits:
+
+* **68%** of the data falls within **1 standard deviation** () of the mean.
+* **95%** falls within **2 standard deviations**.
+* **99.7%** falls within **3 standard deviations**.
+
+---
+
+### How it's Calculated
+
+### Mathematical Formula
+The standard deviation is the square root of the variance:
+
+$$\sigma = \sqrt{\frac{\sum (x_i - \mu)^2}{N}}$$
+
+**What this means in plain English:**
+
+1. Find the **mean** (average) of your numbers.
+2. For each number, subtract the mean and **square the result**.
+3. Find the **average** of those squared differences.
+4. Take the **square root** of that average.
+
+---
+
+### Real-World Examples
+
+| Scenario | Low Standard Deviation | High Standard Deviation |
+| --- | --- | --- |
+| **Manufacturing** | Every soda can contains exactly 12oz. | Some cans have 11.5oz, others have 12.5oz. |
+| **Weather** | A city where it is 75°F every single day. | A city where it's 100°F in July and -10°F in January. |
+| **Investing** | A savings account with a steady 2% return. | A volatile stock that jumps 20% or drops 15% daily. |
+
+---
+
+## Sample Question
+### Mathematical Visual
+
+To see why **Dataset (c)** is the highest, we look at the **Sum of Squares** (how far each number is from the mean of 8, squared):
+
+**Dataset (a): [8, 8, 8]**
+$$(8-8)^2 + (8-8)^2 + (8-8)^2 = 0^2 + 0^2 + 0^2 = 0$$
+
+**Dataset (b): [7, 8, 9]**
+$$(7-8)^2 + (8-8)^2 + (9-8)^2 = (-1)^2 + 0^2 + 1^2 = 2$$
+
+**Dataset (c): [6, 8, 10]**
+$$(6-8)^2 + (8-8)^2 + (10-8)^2 = (-2)^2 + 0^2 + 2^2 = 8$$
+
+
+> **Conclusion:** Because Dataset (c) has the largest sum of squared differences (8), it results in the **highest standard deviation**. Dataset (a) has no difference from the mean, resulting in a standard deviation of **0**.
