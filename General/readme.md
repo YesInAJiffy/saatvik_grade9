@@ -14,7 +14,7 @@ I was recently looking back at some of our old memories—the times we spent tog
 *   **The Playdates:** I was always that father who would gather your friends together just to make sure you had a community to play with.
 *   **The Open Gym in Concorde:** I was always there, trying to teach you *cartwheels, pull-ups, and hanging*. I remember another kid once told me, *"Uncle, Saatvik is so lucky that you don't work and are always with him."*
 *   **The Late Evenings:** Remember when you used to stay out until 9:00 PM? I would search for you like a madman, but I was never harsh. Even after wandering for 40 minutes to find you, I wasn't angry—I just wanted you home safely.
-*   **The Freedom:** I never scolded you over studies until you finished Grade 7; I always wanted you to have your freedom.
+*   **The Freedom:** I never scolded you over studies until you were in Grade 7; I always wanted you to have your freedom.
 *   **The COVID Midnight Runs:** When the world was locked down, remember how you, Shlok, and I would head out at midnight? We were the only ones out there, running and playing in those late hours just to keep our spirits up.
 *   **Birthday Card** On my birthday you made a card. It was like a kid asking Google who is the best father in the world, and google answers Lalit.
     
