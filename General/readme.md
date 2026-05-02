@@ -1,0 +1,135 @@
+
+# A Letter to My Son - 2nd May 2026
+
+**My Dearest Saatvik,**
+
+I’ve been doing a lot of thinking lately about us. I sat down to write this because sometimes it’s easier to put my true heart into words than it is to say them out loud.
+
+I was recently looking back at some of our old memories—the times we spent together. ***Do you remember?***
+
+*   **The piggyback rides:** I used to carry you on my neck, back, or hands—wherever—and roam around everywhere, so much so that my knees actually started to ache. The intention was always to give you more experience than your tiny feet could support.
+
+*   **Swimming:** Do you remember how long it took you to learn? You didn't learn in school or even with a private tutor in Concorde. I took it upon myself to teach you. Even though you were scared, we did it together, and you conquered that fear.
+
+*   **The Playdates:** I was always that father who would gather your friends together just to make sure you had a community to play with.
+*   **The Open Gym in Concorde:** I was always there, trying to teach you *cartwheels, pull-ups, and hanging*. I remember another kid once told me, *"Uncle, Saatvik is so lucky that you don't work and are always with him."*
+*   **The Late Evenings:** Remember when you used to stay out until 9:00 PM? I would search for you like a madman, but I was never harsh. Even after wandering for 40 minutes to find you, I wasn't angry—I just wanted you home safely.
+*   **The Freedom:** I never scolded you over studies until you finished Grade 7; I always wanted you to have your freedom.
+*   **The COVID Midnight Runs:** When the world was locked down, remember how you, Shlok, and I would head out at midnight? We were the only ones out there, running and playing in those late hours just to keep our spirits up.
+*   **Birthday Card** On my birthday you made a card. It was like a kid asking Google who is the best father in the world, and google answers Lalit.
+    
+---
+
+### Where Things Shifted
+Somewhere along the way, something changed—and I am afraid I made it worse. From my perspective, the shift happened because of a lack of focus. When we worked on your **RSM exercises**, it felt like a "tick-box" exercise—the intent was less about *learning* and more about just *finishing*. 
+
+It created a vicious cycle where I had to teach you the same concepts week after week. I worry that you haven't yet grasped the foundational math concepts you need.
+
+### My Sincere Apology
+I have to be honest and apologize to you. Over the last two years, I have been very strict. In my worry about your future, I let my language become ***harsh and demotivational***. For the times I made you feel small or lost, I am truly sorry. That was never my intention, but I realize now that it has affected your confidence.
+
+> **In my desperation to see you succeed, I forgot that a child who feels small cannot stand tall.** 
+
+I am sorry for every harsh word. I am sorry for the times I snatched your phone in anger rather than speaking to you calmly. You are my son before you are my student.
+
+---
+
+### My Expectations for You
+To help you get back on track, here is what I expect from you as a young adult:
+
+1.  **Ownership of Technology:** Phones and games are tools, but they have become a distraction. **Shorts and games will always be there; these four years of Grade 9 to 12 will not.** 
+2.  **Consistency in Effort:** Success in STEM isn't about being a genius; it’s about the work you put in when no one is watching. 
+3.  **Find the Curiosity:** Physics, Chemistry, and Math are the languages of the universe. Try to understand how what you learn is **relevant to mankind**.
+4.  **Open Communication:** If you are struggling, **come to me.** I promise to listen with patience instead of anger.
+5.  **Trust Our Intent:** We aren't trying to control you; we are trying to pave a path for your success.
+6.  **Realize your Potential:** If you put in the effort and still struggle, I will never be upset. I just want you to reach your own true potential.
+7.  **Be Kind with Grandparents:** Please be kind and humble with your grandparents. They had very humble beginnings and they have made the highest contributions to our lives.
+   
+---
+
+### Moving Forward
+I do not expect perfection. I expect **effort**. I believe in you more than you know. Dreaming big is great, but those dreams shatter unless they are backed by **concrete efforts.**
+
+I want to say sorry once more. Can we move past the last two years and start working together again?
+
+**I am always on your team. My Champion.**
+
+
+**With love,**  
+**Papa**
+
+*P.S. Remember we are a team. Together, we succeed.*
+
+---
+
+### Our Journey in Pictures
+
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/7e8c089f-d27c-4fd6-b0bb-ce4d2af92073" /> <img width="1932" height="1316" alt="image" src="https://github.com/user-attachments/assets/8b998895-3737-4f33-80d2-3c572e15995d" /> <img width="1931" height="1314" alt="image" src="https://github.com/user-attachments/assets/1f10980e-0ba7-4f24-a362-593a09dfd037" /> <img width="967" height="593" alt="image" src="https://github.com/user-attachments/assets/f78b656c-1eee-4309-9545-3011e0951a8b" /> <img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/c1ffade2-b09e-430e-b25c-80d1e2b4c2d3" /> <img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/c21948fc-a58f-4ee5-a32d-9384ec1d08de" />
+ <img width="503" height="1105" alt="image" src="https://github.com/user-attachments/assets/f65cb8e2-f8c4-43bd-bba9-c3694e19d7b5" />
+
+ <img width="2048" height="1894" alt="image" src="https://github.com/user-attachments/assets/5ae6a1fb-3116-4588-ae55-0ff52401f708" /> <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/cd50250a-8520-46fe-a2cf-f28fde9a8be0" /> <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/f2316426-6d52-455d-a3f6-d057da6219d8" />
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/92e89f09-dcfa-4949-9350-01410f659f18" /> <img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/6592f559-a77c-4402-897e-acf158dc3dfe" />
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/947b2d36-44cc-4ee1-a6ae-4fe61acfd52d" />
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/de425f7b-a12f-4d33-96c5-3f37a42c8aa0" />
+
+ <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/4c68500b-d3b5-4486-8252-6cffd8af3272" />
+ <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/3232af92-1695-4fec-bd9e-9ee683cc36ff" /> <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/959b459d-a47f-47c5-99ba-7ee40e9752a4" /><img width="1032" height="581" alt="image" src="https://github.com/user-attachments/assets/dff405c3-958e-428f-9a81-46cb85ce3951" /> <img width="960" height="640" alt="image" src="https://github.com/user-attachments/assets/ceb60d06-ba97-4347-b6f2-913c1468d508" /> <img width="960" height="712" alt="image" src="https://github.com/user-attachments/assets/54129bde-b923-4883-affb-ea038b7eb8be" />
+
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/7fe1c361-ea25-4a59-a31e-e617e6b099d1" /> <img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/c54f3006-1c73-48e7-8c10-2c81068b1e04" /> <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/2d2b00cd-b3f8-41b4-8b88-0b3a78ec6c94" /> <img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/8547e6d9-aa0f-4782-a41b-9de1bfbba00b" />
+
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/825f7415-5a2b-4d2b-a019-c4871346d5f5" />
+ <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/b5bfbc27-0071-4a91-b13a-36ee6f5921de" />
+ <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/313af197-f8e3-4d1d-b11a-9ba2db18a324" />
+
+ <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/71500b67-b15a-42ce-b3bc-d1f3aa67849e" /> <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/a0bb3e94-f04a-4c2a-9d70-c2cce5a81980" /> <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/f4f5e7e7-3210-40f9-afb7-a8c787f64950" /> <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/f5cf4049-a345-4229-a641-ab11a5a70577" /> <img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/3ffa6e8c-a5d3-4276-8274-cbd673ce2b9e" />
+
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/5d6476e7-8eec-4b3f-bd29-8027c12dff6c" /> <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/1d191704-90a3-4cde-9770-7a86a4195986" />
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/d035880e-beb1-45ea-9661-80153c512c91" /> <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/419b0319-7cd0-42da-be23-fa13837d1584" /> <img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/83cf212a-8080-42ce-8412-41a313a918b4" /><img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/f31078be-037c-4f04-82a6-3d05f1fe61f8" /><img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/d4d89d62-90fa-4c28-aee4-07356a93f180" />
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/037d0610-e1e3-4ba3-b98c-a5155679304b" />
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/82dd1a8c-559f-4e26-844b-8c1bc7658158" />
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/f796d1b2-aa7d-47bf-8b82-ef7ce9c6d86f" />
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/e190ed79-2aea-4b68-876f-f7edf4bc4576" />
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/8a5aec77-dc07-49f2-ba62-604481ee75b2" />
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/6962120f-8447-48cd-a0c8-b46ce728029f" />
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/d0ba9faf-577b-43a5-b3cd-cfefb5156c2a" /><img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/2edd0d41-41b7-481b-bf3c-b961014f59bd" /> <img width="2037" height="1728" alt="image" src="https://github.com/user-attachments/assets/ce1f7136-1758-4164-b7de-6d06a7ddcd78" />
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/4ed4acbe-d3b1-41f0-9b19-e7197932f2ae" />
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/db5e9307-b76a-4d63-88b5-f662d5092f9f" />
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/5d08abf5-9747-4fae-9269-e95bbef4b29e" />
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/2e0e9043-760e-4a24-979c-674835ce2284" />
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/1bfa7837-0fcf-46af-b1fe-13d959181b51" /><img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/3339e27e-f9ac-4360-a956-b775b70aef7b" />
+<img width="1944" height="1296" alt="image" src="https://github.com/user-attachments/assets/e4130822-49b8-46f0-98fe-3ce31cb2ca1f" />
+<img width="1965" height="1552" alt="image" src="https://github.com/user-attachments/assets/dd4fa4b3-18fa-4ef4-b5f3-3ac465d5dc13" /> <img width="2048" height="1505" alt="image" src="https://github.com/user-attachments/assets/6a3117d7-643d-4ac3-b810-227cdebe6991" /> <img width="1920" height="2048" alt="image" src="https://github.com/user-attachments/assets/ce3504f5-23e4-4837-9769-5604c838638e" /> <img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/3673f89e-d40c-455f-93d3-82238b66709e" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/941b70f1-b715-4a0d-86ea-9736e657fb1f" />
+
+  <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/0de2383a-acc4-4378-a78e-55f2a5c828b7" />
+<img width="1184" height="2048" alt="image" src="https://github.com/user-attachments/assets/3f5270bd-5a6b-4e58-a5be-7a3abd62a5ce" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/385bcfd7-6fa9-432f-8960-cc8cedd6ddfa" />
+
+<img width="1394" height="3008" alt="image" src="https://github.com/user-attachments/assets/8c2cdff3-112c-4284-9206-f194fff141c3" /> <img width="960" height="827" alt="image" src="https://github.com/user-attachments/assets/3cd1772c-cfa5-4e2c-89da-227991b7d4bb" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/321f570f-570a-4a63-be05-f8b97bafd9bd" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e0886a97-60a9-426c-bac0-892f2cb9a474" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9c248a82-fbe9-414f-a79a-f33c575e2606" />
+<img width="540" height="720" alt="image" src="https://github.com/user-attachments/assets/3c9bec57-6ec6-4cab-9cbd-baa108fc840c" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/2d20af12-cc80-4b62-a673-385ddde6a289" />
+<img width="1348" height="3111" alt="image" src="https://github.com/user-attachments/assets/a7a517c0-2e12-4229-acad-b9d8167bc1cf" />
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/f49fd9c1-3d85-4428-b2d0-556eb7fe41d7" />
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/081dad90-8bca-4dff-a641-79d93979dda4" />
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/272dc294-ec75-4073-b253-7fcfdb32f525" />
+<img width="405" height="720" alt="image" src="https://github.com/user-attachments/assets/bcff813f-8c30-430b-bd39-c24d10db5eb2" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/b8fc3c14-e744-45e2-952a-247aa70d6764" />
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/259844b9-8d11-43d5-9425-86378f9a2982" />
+<img width="720" height="540" alt="image" src="https://github.com/user-attachments/assets/4402f934-4b86-4e42-af58-b96ba73abe44" /> <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/917e8d68-68f9-4e00-9c90-af79ff1e52f0" /> <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/51e56fb5-e945-4fbd-ba9e-069b0dcff847" /> <img width="960" height="640" alt="image" src="https://github.com/user-attachments/assets/4920acde-d5d3-469e-addf-9c9bffca8baf" /> <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/3393f14b-415f-41fb-898b-4dc3cde0d247" />
+<img width="1289" height="1979" alt="image" src="https://github.com/user-attachments/assets/561bd1c8-c6ac-4b70-9901-915c96260d6f" /> <img width="2048" height="1518" alt="image" src="https://github.com/user-attachments/assets/679f9fe0-2d04-4ff3-8844-a4303737ea52" /> <img width="2048" height="1518" alt="image" src="https://github.com/user-attachments/assets/9048d906-4565-462c-9191-2b3fdd140625" /> <img width="503" height="1105" alt="image" src="https://github.com/user-attachments/assets/ed683b4b-9c62-4538-ac5a-062e91bf9ea7" /> <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/6ccb9ead-e591-480f-b662-a64cc3c9b066" />
+ <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/a1a77f1c-51e4-4077-b0a2-065dfa4b42a3" />
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/477f84db-9dcf-433e-b2f6-bc126d31a687" />
+
+
+
+
+
+
+
+
