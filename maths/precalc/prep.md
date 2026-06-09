@@ -65,6 +65,183 @@ Since you need to pass a formal placement exam, practicing with full-length coll
 ### Additional Tips for Passing
 - **Focus on your list**: Prioritize graphing (polynomials, rationals, trig), end behavior/asymptotes, trig identities/equations, and applications (word problems, vectors, conics). These are often heavily tested.
 - **Practice actively**: Do problems daily—watch a video/explanation, then solve without notes, then check answers. Track mistakes in an error log.
+
+
+# COPILOT
+Absolutely, Lalit — now that I’ve read your attached **Precalculus Test‑Out Topics PDF**, I can build a **precise 4‑week study plan** that covers *every single objective* listed in your document.  
+I’ll also include **high‑quality practice‑question sources** for each week.
+
+Below is a structured, realistic plan assuming **1–1.5 hours/day**, but you can scale it up or down.
+
+---
+
+# ⭐ **4‑Week Precalculus Test‑Out Study Plan (Fully Aligned to Your PDF)**  
+Every topic below is directly taken from your attached document (e.g., “I can determine end behavior…”, “I can convert between polar and rectangular…” etc.).
+
+---
+
+# 📅 **WEEK 1 — Polynomial, Rational, Exponential & Logarithmic Functions**
+
+### **Topics from your PDF**
+✔ End behavior of polynomial & rational functions  
+✔ Zeros, intercepts, domain, range  
+✔ Asymptotes & holes  
+✔ Graphing polynomial & rational functions  
+✔ Writing functions from graphs  
+✔ Binomial theorem  
+✔ Inverses & compositions  
+✔ Solving polynomial & rational equations  
+✔ Exponential/logarithmic functions (end behavior, asymptotes, domain, range)  
+✔ Solving exponential & log equations  
+
+### **Study Resources**
+- **PatrickJMT (YouTube)** — best for rational functions, asymptotes, logs  
+- **Khan Academy – Precalculus**  
+  - Polynomial division  
+  - Rational functions  
+  - Exponential & logarithmic equations  
+- **Paul’s Online Math Notes** — clear notes + practice  
+- **OpenStax Precalculus (free textbook)** — Chapters 2, 3, 6  
+
+### **Practice Question Sources**
+- **Kuta Software (free worksheets)** — polynomials, rationals, logs  
+- **MathBitsNotebook** — polynomial & rational practice  
+- **DeltaMath (free)** — excellent for rational functions & logs  
+- **Khan Academy quizzes**  
+
+---
+
+# 📅 **WEEK 2 — Trigonometry Foundations (Right Triangles, Unit Circle, Angles)**
+
+### **Topics from your PDF**
+✔ SOHCAHTOA  
+✔ Special right triangles  
+✔ Reciprocal trig functions  
+✔ Word problems  
+✔ Radians ↔ degrees  
+✔ Coterminal angles  
+✔ Linear & angular speed  
+✔ Unit circle definitions  
+✔ Reference angles  
+✔ Signs of trig functions  
+✔ Evaluate trig values for any angle  
+
+### **Study Resources**
+- **Khan Academy – Trigonometry**  
+- **Eddie Woo (YouTube)** — special triangles, unit circle  
+- **MathIsFun** — simple explanations for radians, speed  
+- **OpenStax Precalculus** — Chapters 4 & 5  
+
+### **Practice Question Sources**
+- **DeltaMath** — unit circle, radians, reference angles  
+- **Kuta Software** — right triangles, special triangles  
+- **Mathway (practice problems)**  
+- **Brilliant.org (free problems)**  
+
+---
+
+# 📅 **WEEK 3 — Graphing Trig Functions, Identities, Equations, Applications**
+
+### **Topics from your PDF**
+✔ Graph sine, cosine, tangent, cotangent  
+✔ Graph secant & cosecant  
+✔ Modeling periodic behavior  
+✔ Inverse trig functions  
+✔ Bearings  
+✔ Harmonic motion  
+✔ Verifying identities  
+✔ Sum & difference formulas  
+✔ Solving trig equations (factoring, quadratic, identities)  
+
+### **Study Resources**
+- **Khan Academy – Graphing trig functions**  
+- **Professor Leonard (YouTube)** — trig identities & equations  
+- **MathBitsNotebook** — trig identities + practice  
+- **OpenStax Precalculus** — Chapters 5 & 7  
+
+### **Practice Question Sources**
+- **DeltaMath** — trig identities, trig equations  
+- **Kuta Software** — trig identities, graphing trig functions  
+- **Paul’s Online Math Notes** — trig equations practice  
+- **Brilliant.org** — periodic modeling problems  
+
+---
+
+# 📅 **WEEK 4 — Advanced Topics (Law of Sines/Cosines, Polar, Vectors, Matrices, Conics)**
+
+### **Topics from your PDF**
+✔ Law of Sines & Cosines (including ambiguous case)  
+✔ Applications of Law of Sines/Cosines  
+✔ Polar ↔ rectangular coordinates  
+✔ Graphing polar functions  
+✔ Vectors (components, magnitude, direction, applications)  
+✔ Matrices (notation, add/subtract/multiply, solving systems)  
+✔ Conic sections (graphing & writing equations)  
+
+### **Study Resources**
+- **Khan Academy – Vectors, Matrices, Polar Coordinates**  
+- **3Blue1Brown (YouTube)** — vectors & transformations  
+- **OpenStax Precalculus** — Chapters 8, 9, 10  
+- **PatrickJMT** — conics, matrices, polar conversions  
+
+### **Practice Question Sources**
+- **DeltaMath** — vectors, matrices, polar graphs  
+- **Kuta Software** — conics, matrices, vectors  
+- **Paul’s Online Math Notes** — conics & polar practice  
+- **Brilliant.org** — vector applications  
+
+---
+
+# 🎯 **Weekly Structure (Recommended)**
+
+### **Mon–Thu**
+- 45–60 min learning (videos + notes)  
+- 30–45 min practice problems  
+
+### **Friday**
+- Mixed practice quiz (Khan Academy or DeltaMath)
+
+### **Saturday**
+- 1–2 full topic worksheets (Kuta + Paul’s Notes)
+
+### **Sunday**
+- Review mistakes  
+- Create a 1‑page summary sheet for each topic  
+
+---
+
+# ⭐ **Best Overall Practice Sites (Bookmark These)**
+
+### **1. DeltaMath (FREE)**
+The closest to real school assessments.  
+Covers: trig, polynomials, rationals, logs, vectors, matrices, conics.
+
+### **2. Kuta Software (FREE PDFs)**
+Perfect for drilling:  
+- Trig identities  
+- Rational functions  
+- Conics  
+- Matrices  
+- Polar coordinates  
+
+### **3. Khan Academy**
+Full curriculum + quizzes + mastery checks.
+
+### **4. Paul’s Online Math Notes**
+Clear explanations + practice problems with solutions.
+
+### **5. OpenStax Precalculus (Free Textbook)**
+Matches your PDF topics almost exactly.
+
+---
+
+# 🔥 Want me to generate a **daily schedule** for all 28 days?  
+I can also create:  
+- A **diagnostic test** to see where you stand  
+- A **formula sheet** for the entire exam  
+- A **practice exam** modeled on your school’s test‑out topics  
+
+Just tell me what you want next.
 - **Time yourself**: Simulate test conditions with mixed-topic practice.
 - **Textbook supplements**: If your school uses a specific book, check for online resources or older editions. Barron's or Princeton Review Precalculus books are solid for extra problems (library or cheap used copies).
 
