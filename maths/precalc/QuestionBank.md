@@ -1,8 +1,343 @@
-To keep your study materials fully organized, the questions below are divided exactly by your curriculum's units and explicitly tagged with the specific subtopics they cover.
+# GROK
 
-Because generating 25–30 questions for all 14 units at once would create an overwhelmingly massive wall of text, **this first installment provides targeted, exam-level practice sets for Units 1 through 4 (Polynomials, Exponentials, Right Triangles, and Angles)**.
+# Precalculus Test-Out Study Guide: 25 Questions Per Topic
 
-Let's dive into the first phase of your 20-day sprint.
+**Instructions**: Practice these questions without a calculator where possible for exact values. Graph by hand when asked. Review objectives from the curriculum topics.
+
+---
+
+## Topic 1: Polynomial and Rational Functions (25 Questions)
+
+1. Determine the end behavior of $f(x) = -3x^5 + 2x^4 - 7x^2 + 1$.  
+2. Find the y-intercept and all real zeros of $f(x) = x^3 - 6x^2 + 11x - 6$.  
+3. Use the Rational Root Theorem to list all possible rational roots of $2x^4 - 3x^3 + 5x^2 - x - 2 = 0$.  
+4. Identify all vertical, horizontal, and slant asymptotes for $f(x) = \frac{2x^2 - 3}{x-1}$.  
+5. Find any holes and sketch the graph of $f(x) = \frac{x^2 - 1}{x^2 - 4x + 4}$.  
+6. Write the equation of a polynomial with zeros at $-2$, $1$ (multiplicity 2), $3$ and a y-intercept of $6$.  
+7. Expand $(x + 2)^6$ using the Binomial Theorem.  
+8. Expand $(3x - 1)^4$ using the Binomial Theorem.  
+9. Find the inverse function of $f(x) = 2x^3 + 1$.  
+10. Solve $x^4 - 5x^2 + 4 = 0$.  
+11. Solve the rational equation $\frac{x+3}{x-2} = \frac{2x}{x+1}$.  
+12. Sketch the graph of $f(x) = x^3 - 3x^2 - 4x + 12$, noting end behavior and zeros.  
+13. Identify the domain and range of $f(x) = \frac{x-1}{x^2 - 4}$.  
+14. Perform polynomial long division: $(x^3 + 2x^2 - 5x + 3) \div (x-2)$.  
+15. Given a cubic graph with zeros at $-1$, $2$, $3$ and passing through $(0, -6)$, write its equation.  
+16. Find all asymptotes and intercepts for $f(x) = \frac{3x-6}{x^2 - x - 2}$.  
+17. Solve the rational inequality $\frac{x-1}{x+2} > 0$.  
+18. Use synthetic division to divide $x^4 - 16$ by $x-2$.  
+19. If $f(x) = x^2 + 1$ and $g(x) = \sqrt{x}$, find $(f \circ g)(x)$ and state its domain.  
+20. Find the inverse of $f(x) = \frac{2x+1}{x-3}$.  
+21. Describe the graph of a rational function with vertical asymptote $x=1$, horizontal asymptote $y=2$, and a hole at $x=-1$.  
+22. Sketch a quartic with a positive leading coefficient, showing end behavior and possible local extrema.  
+23. Solve $x^3 + 4x^2 - 7x - 10 = 0$ by factoring completely.  
+24. Write a rational function with vertical asymptotes at $x = \pm 2$ and horizontal asymptote $y=1$.  
+25. A box volume is given by $V(x) = x(20-2x)(30-2x)$. Find the value of $x$ that maximizes volume.
+
+---
+
+## Topic 2: Exponential and Logarithmic Functions (25 Questions)
+
+1. Graph $y = 2 \cdot 3^x - 1$. State its asymptote, domain, and range.  
+2. Determine the end behavior of $y = -e^{-x} + 4$.  
+3. Solve $4^{2x-1} = 8^{x+3}$.  
+4. Solve $\log_5(x+3) + \log_5(x-1) = 2$.  
+5. Find the inverse of $f(x) = 4e^{3x} + 2$.  
+6. Solve $2^{x} = 5$ and approximate to 3 decimal places.  
+7. Graph $y = \ln(x+1) - 2$.  
+8. Calculate compound interest: \$2,000 at 6% compounded quarterly for 5 years.  
+9. Solve $\log_2(x^2 - 4) = 3$.  
+10. Expand $\ln\left( \frac{x^2 \sqrt{y}}{z^3} \right)$ using log properties.  
+11. Condense $3\ln x - 2\ln y + \frac{1}{2}\ln z$.  
+12. Find the domain of $f(x) = \log_3(x^2 - 4x + 3)$.  
+13. Solve $e^{2x} - 5e^x + 6 = 0$.  
+14. Model population growth: $P = 500 \cdot 1.04^t$. When does it reach 1,000?  
+15. Find the inverse of $f(x) = \ln(2x-1) + 3$.  
+16. Graph $y = 2^{x-1} + 3$.  
+17. Solve $9^{x} = 27^{x-2}$.  
+18. Solve $\ln(x+2) = 4$.  
+19. A substance has a half-life of 8 years. How long until 25% remains?  
+20. If $f(x)=\ln x$ and $g(x)=e^{x+1}$, find $f(g(x))$.  
+21. Identify the asymptote and intercepts for $y = -3 \cdot 2^{-x}$.  
+22. Solve $\log(x+1) - \log(x-2) = 1$.  
+23. \$5,000 is invested at 4% continuous compounding. Find its value after 10 years.  
+24. Graph and analyze key features of $y = \log_4(x)$.  
+25. How long will it take for an investment to triple at 5% continuous interest?
+
+---
+
+## Topic 3: Right Triangle Trigonometry (25 Questions)
+
+1. In a right triangle, $\text{opposite} = 8$, $\text{hypotenuse} = 17$. Find $\sin \theta$, $\cos \theta$, and $\tan \theta$.  
+2. Given $\text{adjacent} = 12$ and $\text{opposite} = 5$, find all six trigonometric ratios.  
+3. Given $\text{hypotenuse} = 10$ and angle $= 30^\circ$, find the other two sides.  
+4. Solve for missing sides and angles in a right triangle with legs of $6$ and $8$.  
+5. Given angle $= 45^\circ$ and $\text{opposite} = 7$, find the hypotenuse and adjacent side.  
+6. Use a 30-60-90 triangle with a hypotenuse of $20$ to find the remaining sides.  
+7. Find the hypotenuse of a 45-45-90 triangle with a leg length of $5\sqrt{2}$.  
+8. In a 30-60-90 special right triangle, the short leg is $4\text{ in}$. Find the other sides.  
+9. Find the legs of a 45-45-90 triangle with a hypotenuse of $12$.  
+10. In a 30-60-90 triangle with a longer leg of $10$, find the short leg and hypotenuse.  
+11. Find $\csc \theta$ if $\sin \theta = \frac{3}{5}$.  
+12. Given $\cot \theta = \frac{12}{5}$, find $\sec \theta$.  
+13. Use reciprocal identities to simplify $\frac{\sin \theta}{\csc \theta}$.  
+14. Find $\tan \theta$ if $\sec \theta = \frac{13}{12}$.  
+15. Use cofunction identities: $\sin(30^\circ) = \cos(?)$.  
+16. A 40-ft ladder leans against a building at a $65^\circ$ angle. How high up the wall does it reach?  
+17. The angle of elevation to the top of a 150-ft tower is $35^\circ$. How far away is the observer?  
+18. Distance across a river: given an 80-ft baseline and an angle of $25^\circ$, find the width.  
+19. Height of a kite: given a string length of 200 ft and an angle of $42^\circ$, find the height.  
+20. Shadow problem: a 25-ft pole casts a shadow of 30 ft. Find the angle of elevation of the sun.  
+21. Solve the full right triangle: $A=35^\circ$, $b=12$ (adjacent to $A$).  
+22. Right triangle word problem: a guy wire is 50 ft long and attached 8 ft from the top of a pole. Find the angle it makes with the ground.  
+23. Find all angles and sides given a hypotenuse of $15$ and one leg of $9$.  
+24. Navigation: a boat sails due north, then turns. Set up and solve using right triangle trig.  
+25. Application: a ramp 20 ft long rises 5 ft. Find its angle of inclination.
+
+---
+
+## Topic 4: Radians and Degrees (25 Questions)
+
+1. Convert $150^\circ$ to radians.  
+2. Convert $\frac{5\pi}{3}$ to degrees.  
+3. Convert $225^\circ$ to radians in terms of $\pi$.  
+4. Convert $\frac{3\pi}{4}$ to degrees.  
+5. Convert $-60^\circ$ to radians.  
+6. Convert $\frac{7\pi}{6}$ radians to degrees.  
+7. Convert $300^\circ$ to radians.  
+8. Convert $\frac{2\pi}{5}$ to degrees.  
+9. Find a positive coterminal angle for $400^\circ$.  
+10. Find a coterminal angle between $0^\circ$ and $360^\circ$ for $-120^\circ$.  
+11. Find the smallest positive coterminal angle for $750^\circ$.  
+12. Find a negative coterminal angle for $100^\circ$ (between $-360^\circ$ and $0^\circ$).  
+13. Find a coterminal angle in radians for $\frac{5\pi}{2}$.  
+14. Find two coterminal angles for $\frac{\pi}{3}$.  
+15. Find a coterminal angle for $\frac{11\pi}{6}$.  
+16. Find the arc length of a circle with a radius of $6$ and a central angle of $120^\circ$.  
+17. Find the sector area for a circle with radius $5$ and $\theta = \frac{\pi}{3}$.  
+18. Find $\theta$ in radians if the arc length is $8$ and the radius is $4$.  
+19. Find the linear speed of a point on a circle with a radius of $10\text{ cm}$ and an angular speed of $4\text{ rad/s}$.  
+20. Angular speed: a wheel with a $0.5\text{ m}$ radius rotates at $300\text{ rpm}$. Find its angular speed in $\text{rad/s}$.  
+21. A bicycle wheel has a $70\text{ cm}$ diameter and a linear speed of $10\text{ m/s}$. Find its angular speed.  
+22. Convert $45\text{ rpm}$ to $\text{rad/min}$.  
+23. Find the linear speed if the angular speed is $\pi\text{ rad/s}$ and the radius is $2\text{ ft}$.  
+24. Find the coterminal angles and arc length for $\theta = 240^\circ$.  
+25. Application: solve a pulley system angular-to-linear speed conversion problem.
+
+---
+
+## Topic 5: Unit Circle Trigonometry (25 Questions)
+
+1. Evaluate $\sin\left(\frac{\pi}{3}\right)$.  
+2. Evaluate $\cos\left(\frac{5\pi}{6}\right)$.  
+3. Evaluate $\tan\left(\frac{7\pi}{4}\right)$.  
+4. Evaluate $\sin\left(-\frac{\pi}{4}\right)$.  
+5. Evaluate $\cos\left(\frac{4\pi}{3}\right)$.  
+6. Evaluate $\tan\left(\frac{2\pi}{3}\right)$.  
+7. Evaluate $\sec\left(\frac{\pi}{6}\right)$.  
+8. Evaluate $\csc\left(\frac{3\pi}{2}\right)$.  
+9. Evaluate $\cot(\pi)$.  
+10. Evaluate $\sin\left(\frac{11\pi}{6}\right)$.  
+11. Find the reference angle for $210^\circ$.  
+12. Find the reference angle for $\frac{5\pi}{4}$.  
+13. Find the reference angle for $300^\circ$.  
+14. Find the reference angle for $-\frac{\pi}{3}$.  
+15. Find the reference angle for $\frac{7\pi}{6}$.  
+16. Determine the signs of all trig functions in Quadrant II.  
+17. Determine the signs of all trig functions in Quadrant III.  
+18. Determine the sign of $\tan$ in Quadrant IV.  
+19. Determine the sign of $\csc$ in Quadrant I.  
+20. Summarize the signs of all six trig functions across each quadrant.  
+21. Evaluate $\cos\left(\frac{13\pi}{6}\right)$.  
+22. Evaluate $\sin\left(-\frac{5\pi}{3}\right)$.  
+23. Evaluate $\tan\left(\frac{17\pi}{3}\right)$.  
+24. Evaluate $\cot\left(-\frac{\pi}{4}\right)$.  
+25. Evaluate $\sec\left(\frac{19\pi}{6}\right)$ using its reference angle.
+
+---
+
+## Topic 6: Graphing Trigonometric Functions (25 Questions)
+
+1. Graph $y = 2 \sin(x)$ for one full period. Label the amplitude and period.  
+2. Given $y = \cos(2x) - 1$, state its amplitude, period, and vertical shift.  
+3. Identify the phase shift of $y = 3 \sin\left(\frac{\pi x}{2} + \pi\right)$.  
+4. Graph $y = -\sin\left(x + \frac{\pi}{2}\right) + 2$.  
+5. Graph $y = 4 \cos(3x)$ over one full period.  
+6. Graph $y = \sin x$ and $y = \cos x$ simultaneously on the same set of axes.  
+7. Model Ferris wheel height: $h = 50 + 45 \sin\left(\frac{\pi t}{10}\right)$.  
+8. Tide model: $\text{depth} = 6 + 3 \cos\left(\frac{\pi t}{6}\right)$.  
+9. Graph $y = \tan(x)$ for $-\frac{\pi}{2} < x < \frac{\pi}{2}$.  
+10. Find the period and asymptotes of $y = 2 \tan\left(\frac{\pi x}{4}\right)$.  
+11. Graph $y = \cot(2x)$.  
+12. Graph $y = -\cot(x + \pi)$.  
+13. Graph $y = \sec(x)$ over one period.  
+14. Graph $y = 2 \csc(\pi x)$.  
+15. Graph $y = \csc\left(x - \frac{\pi}{2}\right)$.  
+16. Compare the key differences between the reciprocal graphs ($\sin$ vs $\csc$, $\cos$ vs $\sec$).  
+17. Periodic modeling: construct a trigonometric equation to represent daily temperature variation.  
+18. Spring motion: given $d = 4 \cos(6t)$, identify its amplitude and frequency.  
+19. Graph $y = \tan x + 1$.  
+20. Graph $y = 0.5 \sec(2x) - 3$.  
+21. Sketch one period of $y = 3 \sin(2\pi x)$.  
+22. Graph the phase-shifted function: $y = \cos\left(x - \frac{\pi}{3}\right)$.  
+23. Graph a tangent function configured to have a period of $\frac{\pi}{2}$.  
+24. Review basic applications of harmonic motion involving light damping features.  
+25. Model a sound wave or pendulum string cycle using a sine/cosine base.
+
+---
+
+## Topic 7: Trigonometric Applications (25 Questions)
+
+1. Evaluate $\arcsin(0.5)$.  
+2. Evaluate $\arccos\left(-\frac{\sqrt{2}}{2}\right)$.  
+3. Find the principal value of $\arctan(1)$.  
+4. Evaluate $\arcsin\left(\sin\left(\frac{3\pi}{2}\right)\right)$ keeping domain restrictions in mind.  
+5. Solve the identity composition: $\sin\left(\arccos\left(\frac{3}{5}\right)\right)$.  
+6. Find the principal angle whose $\tan$ is $-1$.  
+7. Evaluate $\text{arccot}(\sqrt{3})$.  
+8. Evaluate an inverse trigonometric composition matching explicit restricted domains.  
+9. Evaluate $\cos\left(\arcsin\left(\frac{1}{2}\right) + \arccos\left(\frac{1}{2}\right)\right)$.  
+10. Evaluate a nested inverse trigonometric identity relationship.  
+11. Bearing: a ship sails $\text{N}30^\circ\text{E}$ for $10\text{ km}$. Find its component vectors.  
+12. Two-bearings problem: determine the geometric distance between two dynamic points.  
+13. Navigation: from point $A$ to $B$ at a bearing of $045^\circ$, then processing coordinates to point $C$.  
+14. Bearing word problem: a lighthouse is observed 5 miles away at $\text{S}40^\circ\text{W}$.  
+15. Calculate airplane headings relative to wind tracking using basic bearings.  
+16. Harmonic motion: given $d = 6 \sin(4t) + 8$, determine amplitude and period.  
+17. Model the physical arc oscillation parameters of a pendulum.  
+18. Spring physics: given $\text{position} = 5 \cos(2\pi t)$, find the cycle frequency.  
+19. Tides: build a model mapping low and high water thresholds.  
+20. Construct a sinusoidal profile mapping a Ferris wheel or carousel trajectory.  
+21. Apply inverse trig functions to solve oblique triangle layouts.  
+22. Bearing tracking application: deduce the path layout for a rescue boat.  
+23. Model a region's daily temperature shift patterns using a raw sine curve.  
+24. Evaluate $\arccos(\cos \theta)$ accounting for custom domain boundaries.  
+25. Fit real-world periodic patterns to standard trigonometric waveforms.
+
+---
+
+## Topic 8: Verifying Trigonometric Identities (25 Questions)
+
+1. Verify: $(\sin \theta + cos \theta)^2 = 1 + 2 \sin \theta \cos \theta$.  
+2. Prove $1 + \tan^2\theta = \sec^2\theta$.  
+3. Verify $\frac{\sin \theta}{1 - \cos \theta} = \frac{1 + \cos \theta}{\sin \theta}$.  
+4. Verify $\frac{1 - \cos 2\theta}{2} = \sin^2\theta$.  
+5. Prove $\tan \theta + \cot \theta = \sec \theta \csc \theta$.  
+6. Use a sum formula to evaluate the exact value of $\sin(75^\circ)$.  
+7. Find $\cos(15^\circ)$ using a difference formula structure.  
+8. Solve an expansion application via the $\tan(A + B)$ identity template.  
+9. Prove $\sin(A + B) + \sin(A - B) = 2 \sin A \cos B$.  
+10. Prove $\cos(A - B) - \cos(A + B) = 2 \sin A \sin B$.  
+11. Double angle expansion: state $\sin 2\theta$ cleanly in terms of $\sin \theta$ and $\cos \theta$.  
+12. Verify a structural identity involving a $\cot(2\theta)$ term.  
+13. Apply the half-angle equation for a $\tan\left(\frac{\theta}{2}\right)$ translation.  
+14. Formally prove standard Pythagorean identity sets.  
+15. Prove $\sec^2\theta - \tan^2\theta = 1$.  
+16–25. Formulate and verify 10 distinct advanced identities using sum/difference and double-angle formulas (e.g., verifying variations of $\cos 2\theta = \cos^2\theta - \sin^2\theta$).
+
+---
+
+## Topic 9: Solving Trigonometric Equations (25 Questions)
+
+1. Solve $\sin \theta = \frac{1}{2}$ over the interval $[0, 2\pi)$.  
+2. Solve $\cos \theta = -\frac{\sqrt{3}}{2}$ over the interval $[0, 2\pi)$.  
+3. Find the general solution for $\tan \theta = 1$.  
+4. Solve $2 \sin \theta + 1 = 0$ over the interval $[0, 2\pi)$.  
+5. Solve by factoring: $\sin \theta \cos \theta = \frac{1}{2}$.  
+6. Solve $2 \cos^2\theta - \cos \theta - 1 = 0$ over the interval $[0, 2\pi)$.  
+7. Solve the quadratic trig equation $\sin^2\theta - 2 \sin \theta - 3 = 0$.  
+8. Solve using factoring methods: $2 \sin 2\theta = \sin \theta$.  
+9. Solve $\cos 2\theta = \cos \theta$.  
+10. Use the identity $\sin 2\theta = 2 \sin \theta \cos \theta$ to solve a system.  
+11. Solve $\tan^2\theta - 3 = 0$ over the interval $[0, 2\pi)$.  
+12. Solve $3 \tan^2 x - \tan x = 0$.  
+13. Solve the quadratic form: $2 \cos^2 x + 3 \cos x + 1 = 0$.  
+14. Find all matching configurations where $\sin x = \cos x$ on $[0, 2\pi)$.  
+15. Solve $2 \sin^2 x + \sin x - 1 = 0$.  
+16. Solve over $[0, 2\pi)$: $\cos(2x) = \cos x$.  
+17. Simplify and solve an equation using standard sum-to-product conversions.  
+18. Solve $\tan\left(x + \frac{\pi}{4}\right) = 1$.  
+19. Multiple angle verification: solve $\sin 3x = 0$.  
+20. Solve $\cos\left(\frac{x}{2}\right) = \frac{1}{2}$.  
+21–25. Complete a mixed review set of trig equations utilizing advanced factoring, substitution, and structural identity replacement.
+
+---
+
+## Topic 10: Solving Triangles using Law of Sines and Cosines (25 Questions)
+
+1. Solve the triangle: $a=7$, $b=8$, $A=40^\circ$ (SAA configuration).  
+2. Evaluate the SSA ambiguous case condition: $a=10$, $b=12$, $A=30^\circ$.  
+3. Law of Sines application: $A=50^\circ$, $B=70^\circ$, $a=12$. Find side $c$.  
+4. Manage an ambiguous mapping layout producing exactly two valid distinct triangles.  
+5. Law of Cosines evaluation: given sides $6$, $8$, and $10$, isolate the largest angle.  
+6. SAS layout application: $b=9$, $c=11$, $A=60^\circ$. Deduce side $a$.  
+7. SSS configuration profile: given sides $5$, $7$, and $9$, find all interior angles.  
+8. Application: compute the scalar distance separating two remote markers via angular tracking.  
+9. Set up and solve a complex oblique triangle mapping for navigation.  
+10. Analyze an SSA input scenario that results in no possible triangle.  
+11–25. Complete 15 comprehensive mixed oblique triangle problems tracking landscape surveying, angular tracking anomalies, and edge cases.
+
+---
+
+## Topic 11: Polar and Rectangular Coordinates (25 Questions)
+
+1. Convert the rectangular point $(3,4)$ to polar coordinate form $(r, \theta)$.  
+2. Convert the polar point $\left(-2, \frac{\pi}{3}\right)$ to rectangular coordinate form.  
+3. Transform the equation $r = 5$ into its rectangular equivalent.  
+4. Convert $x^2 + y^2 = 16$ into standard polar formatting.  
+5. Map the polar path $r = 4 \cos \theta$ directly into a rectangular layout.  
+6. Evaluate $r = 2 + 3 \sin \theta$ and classify its geometric shape type.  
+7. Sketch the polar path given by $r = 4$.  
+8. Graph the polar cardioid defined by $r = 2(1 + \cos \theta)$.  
+9. Chart out the multi-petal rose curve layout $r = 3 \sin(2\theta)$.  
+10. Graph the limacon curve matching $r = 3 + 2 \cos \theta$.  
+11–25. Complete further systemic structural equations charting limacons, cardioids, lemniscates, and spirals.
+
+---
+
+## Topic 12: Vectors (25 Questions)
+
+1. Vector $\mathbf{u} = \langle 3,4 \rangle$. Isolate its absolute magnitude and structural direction angle.  
+2. Isolate the component layout format matching vector $\mathbf{v} = \langle -1,2 \rangle$.  
+3. Isolate the operational vectors representing $\mathbf{u} + \mathbf{v}$ and $\mathbf{u} - \mathbf{v}$ using values from previous items.  
+4. Perform the basic scalar calculation outputting $3\mathbf{u}$.  
+5. Construct a definitive vector holding a magnitude of $10$ positioned at a $120^\circ$ angle.  
+6. Determine the resultant vector merging a 50N force at $0^\circ$ combined with a 30N force at $60^\circ$.  
+7. Map an applied navigational trajectory using raw component vectors.  
+8. Evaluate basic numeric dot product tracking parameters between custom vectors.  
+9–25. Perform geometric mappings, orthogonal checks, and intersection alignments using multi-vector groups.
+
+---
+
+## Topic 13: Matrices (25 Questions)
+
+1. Execute a basic matrix addition operation utilizing two $2 \times 2$ matrix blocks.  
+2. Execute an algebraic subtraction step across equivalent matrix dimensions.  
+3. Complete a scalar translation across an active matrix distribution.  
+4. Calculate the product result matching a standard $2 \times 2$ multiplication sequence.  
+5. Map an augmented matrix system tracking equations: $2x + y = 5$ and $x - 3y = -4$.  
+6. Apply standard row reduction operations to fully isolate variables in a linear system.  
+7–25. Solve variable arrays and evaluate determinants using row reductions across larger $2 \times 2$ and $3 \times 3$ matrix layouts.
+
+---
+
+## Topic 14: Conic Sections (25 Questions)
+
+1. Identify the structural properties and hand-graph the circle $(x-2)^2 + (y+1)^2 = 9$.  
+2. Locate the vertex and directional opening axis of the parabola $y = x^2 - 4x + 3$.  
+3. Isolate the operational focus points and graph the ellipse $\frac{x^2}{4} + \frac{y^2}{9} = 1$.  
+4. Determine the bounding asymptote trajectories for the hyperbola $\frac{x^2}{9} - \frac{y^2}{4} = 1$.  
+5. Construct the equation of a circle given center point $(-1,3)$ and a radius of $5$.  
+6. Determine the vertex form formula for a parabola holding a vertex layout at $(0,0)$ and a focus at $(0,3)$.  
+7. Write out the definitive equation for an ellipse configured with center $(2,-1)$, $a=4$, and $b=3$.  
+8. Isolate focus locations and eccentricities for custom hyperbola frames.  
+9–25. Extract standard structural parameters from conic equations by completing the square, and graph their profiles.
+
+---
+**End of Question Bank**. Focus your review on weaker areas throughout the 20-day plan.
+
+
+# GEMINI
 
 ---
 
